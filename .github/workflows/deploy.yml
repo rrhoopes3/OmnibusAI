@@ -4,10 +4,10 @@ on:
   push:
     branches: [main]
     paths:
-      - 'omnibus-site/data/summaries/**'
-      - 'omnibus-site/templates/**'
-      - 'omnibus-site/static/**'
-      - 'omnibus-site/scripts/build-site.js'
+      - 'data/summaries/**'
+      - 'templates/**'
+      - 'static/**'
+      - 'scripts/build-site.js'
   workflow_dispatch:
 
 jobs:
@@ -22,24 +22,14 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        working-directory: omnibus-site
         run: npm ci
 
       - name: Build static site
-        working-directory: omnibus-site
         run: node scripts/build-site.js
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy omnibus-site/public --project-name=omnibusai
-        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
           name: site-build
-          path: omnibus-site/public/
+          path: public/
           retention-days: 30

@@ -21,12 +21,10 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        working-directory: omnibus-site
         run: npm ci
 
       - name: Monitor for new bills
         id: check
-        working-directory: omnibus-site
         env:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
         run: |
@@ -47,7 +45,7 @@ jobs:
         run: |
           git config user.name "OmnibusAI Bot"
           git config user.email "bot@omnibusai.info"
-          git add omnibus-site/data/bills/
+          git add data/bills/
           git diff --staged --quiet || git commit -m "feat: discovered new bills - ${{ steps.check.outputs.bill_ids }}"
           git push
 

@@ -26,44 +26,28 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        working-directory: omnibus-site
         run: npm ci
 
       - name: Fetch bill XML
-        working-directory: omnibus-site
         run: node scripts/fetch-xml.js "${{ inputs.bill_ids }}"
 
       - name: Parse bill structure
-        working-directory: omnibus-site
         run: |
           IFS=',' read -ra IDS <<< "${{ inputs.bill_ids }}"
           for id in "${IDS[@]}"; do
             node scripts/parse-bill.js "$id"
           done
 
-      # Tailscale: join private mesh to reach your home GPU (recommended)
-      # Skip if using Cloudflare Tunnel or cloud-only providers instead
-      - name: Connect to Tailscale
-        if: ${{ secrets.TS_OAUTH_CLIENT_ID != '' }}
-        uses: tailscale/github-action@v3
-        with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
-          tags: tag:ci
-
       - name: Generate AI summaries
-        working-directory: omnibus-site
         env:
-          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'ollama' }}
+          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'grok' }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           # Ollama (local GPU via Tailscale or Cloudflare Tunnel)
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_SMART_MODEL: ${{ vars.OLLAMA_SMART_MODEL || 'gemma3:27b-it-q4_K_M' }}
           OLLAMA_FAST_MODEL: ${{ vars.OLLAMA_FAST_MODEL || 'qwen2.5:14b-instruct-q5_K_M' }}
           OLLAMA_NUM_CTX: ${{ vars.OLLAMA_NUM_CTX || '16384' }}
-          # Cloudflare Access auth (if using CF Tunnel instead of Tailscale)
-          CF_ACCESS_CLIENT_ID: ${{ secrets.CF_ACCESS_CLIENT_ID }}
-          CF_ACCESS_CLIENT_SECRET: ${{ secrets.CF_ACCESS_CLIENT_SECRET }}
           # Cloud fallbacks (optional)
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -75,28 +59,19 @@ jobs:
           done
 
       - name: Build static site
-        working-directory: omnibus-site
         run: node scripts/build-site.js
 
       - name: Commit data and summaries
         run: |
           git config user.name "OmnibusAI Bot"
           git config user.email "bot@omnibusai.info"
-          git add omnibus-site/data/
+          git add data/
           git diff --staged --quiet || git commit -m "feat: processed bills - ${{ inputs.bill_ids }}"
           git push
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy omnibus-site/public --project-name=omnibusai
-        if: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
           name: site-build
-          path: omnibus-site/public/
+          path: public/
           retention-days: 30

@@ -8,6 +8,7 @@
  */
 
 const { ClaudeProvider } = require('./claude');
+const { GrokProvider } = require('./grok');
 const { OpenAIProvider } = require('./openai');
 const { OllamaProvider } = require('./ollama');
 
@@ -16,10 +17,11 @@ function getProviders() {
   const preferred = (process.env.AI_PROVIDER || 'claude').toLowerCase();
 
   const claude = new ClaudeProvider();
+  const grok = new GrokProvider();
   const openai = new OpenAIProvider();
   const ollama = new OllamaProvider();
 
-  const all = { claude, openai, ollama };
+  const all = { claude, grok, openai, ollama };
 
   // Add preferred provider first
   if (all[preferred] && all[preferred].isAvailable()) {
@@ -37,6 +39,7 @@ function getProviders() {
     throw new Error(
       'No AI provider configured. Set one of:\n' +
       '  AI_PROVIDER=ollama + OLLAMA_BASE_URL (local/free)\n' +
+      '  XAI_API_KEY (Grok)\n' +
       '  ANTHROPIC_API_KEY (Claude)\n' +
       '  OPENAI_API_KEY (OpenAI)'
     );
