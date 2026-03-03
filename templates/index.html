@@ -1,0 +1,59 @@
+<section class="hero">
+  <h1>Federal Spending, Explained</h1>
+  <p class="hero-sub">AI-generated plain-English breakdowns of omnibus appropriations bills — section by section, dollar by dollar.</p>
+</section>
+
+{{#if billCount}}
+<section class="bill-list">
+  <h2>Analyzed Bills</h2>
+  <div class="card-grid">
+    {{#each bills}}
+    <a href="/bill/{{id}}/" class="bill-card">
+      <div class="card-header">
+        <span class="card-congress">{{congress}}</span>
+        <span class="card-date">{{generatedAt}}</span>
+      </div>
+      <h3 class="card-title">{{shortTitle}}</h3>
+      <div class="card-meta">
+        <span class="card-divisions">{{divisionCount}} divisions</span>
+      </div>
+      <p class="card-preview">{{summaryPreview}}</p>
+    </a>
+    {{/each}}
+  </div>
+</section>
+{{/if}}
+
+{{#if noBills}}
+<section class="empty-state">
+  <h2>No Bills Analyzed Yet</h2>
+  <p>When new omnibus appropriations bills are published, they'll automatically appear here with AI-generated breakdowns.</p>
+  <p>In the meantime, check out our <a href="/about/">About page</a> to learn how this works.</p>
+</section>
+{{/if}}
+
+<section class="how-it-works">
+  <h2>How It Works</h2>
+  <div class="steps">
+    <div class="step">
+      <div class="step-num">1</div>
+      <h3>Monitor</h3>
+      <p>We automatically check Congress.gov for new omnibus and appropriations bills.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">2</div>
+      <h3>Parse</h3>
+      <p>The bill's XML is parsed into its hierarchy: divisions, titles, sections, and dollar amounts.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">3</div>
+      <h3>Summarize</h3>
+      <p>AI reads each section and generates plain-English breakdowns with key spending figures.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">4</div>
+      <h3>Publish</h3>
+      <p>Breakdowns are published here for free, organized by department and program area.</p>
+    </div>
+  </div>
+</section>

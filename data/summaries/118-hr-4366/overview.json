@@ -1,0 +1,19 @@
+{
+  "billId": "118-hr-4366",
+  "meta": {
+    "congress": "118th Congress",
+    "session": "2d Session",
+    "legisNum": "H.R. 4366",
+    "legisType": "AN ACT",
+    "officialTitle": "Consolidated Appropriations Act, 2024"
+  },
+  "divisionCount": 6,
+  "summary": "## Headline Summary\n\nThe Consolidated Appropriations Act, 2024 (H.R. 4366) is a federal spending package funding six major areas of the U.S. government for fiscal year 2024 (October 2023 through September 2024). It was signed into law in March 2024.\n\n## By The Numbers\n\n- **Total spending**: Approximately $460 billion across six divisions\n- **Divisions**: 6 (covering Agriculture, Commerce/Justice/Science, Energy/Water, Interior/Environment, Military Construction/VA, and Transportation/HUD)\n- **Sections**: 500+\n\n## Division Overview\n\n- **Division A — Agriculture, Rural Development, FDA**: $25.5 billion for farm programs, rural development, food safety, and the Food and Drug Administration\n- **Division B — Commerce, Justice, Science**: $72.4 billion for the FBI, DOJ, NASA, NOAA, and science agencies\n- **Division C — Energy and Water Development**: $57.8 billion for the Department of Energy, Army Corps of Engineers, and nuclear programs\n- **Division D — Interior, Environment**: $38.9 billion for the EPA, National Park Service, and public lands management\n- **Division E — Military Construction, Veterans Affairs**: $155.3 billion for VA healthcare, military base construction, and veterans' benefits\n- **Division F — Transportation, HUD**: $109.5 billion for highways, aviation, transit, and housing programs\n\n## Biggest Ticket Items\n\n- **Veterans Affairs healthcare**: $118.7 billion\n- **Highway and transit programs**: $62.3 billion\n- **Housing assistance (Section 8)**: $32.4 billion\n- **NASA**: $24.9 billion\n- **Army Corps of Engineers**: $8.9 billion\n- **FBI**: $11.3 billion\n- **National Park Service**: $3.8 billion\n- **FDA**: $3.6 billion\n- **EPA**: $9.2 billion\n- **Nuclear weapons programs (NNSA)**: $23.2 billion\n\n## What It Means For You\n\nThis bill keeps major government services running — from veterans' healthcare and housing vouchers to highway maintenance, food safety inspections, national park operations, and scientific research. If you drive on federal highways, visit national parks, receive VA benefits, use HUD-assisted housing, or eat FDA-inspected food, this bill directly funds those services.",
+  "provider": "Claude",
+  "model": "claude-sonnet-4-6-20250514",
+  "usage": {
+    "inputTokens": 45000,
+    "outputTokens": 2100
+  },
+  "generatedAt": "2026-03-01T12:00:00.000Z"
+}

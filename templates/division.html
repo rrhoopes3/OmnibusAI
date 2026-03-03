@@ -1,0 +1,47 @@
+<nav class="breadcrumb">
+  <a href="/">Home</a> &raquo;
+  <a href="/bill/{{billId}}/">Bill</a> &raquo;
+  <span>Division {{divNum}}</span>
+</nav>
+
+<article class="division-detail">
+  <header class="division-page-header">
+    <h1>Division {{divNum}} — {{divHeader}}</h1>
+    <div class="bill-meta">
+      <span class="meta-item">{{titleCount}} Titles</span>
+      <span class="meta-item">Generated {{generatedAt}}</span>
+      <span class="meta-item meta-provider">via {{provider}}</span>
+    </div>
+  </header>
+
+  <section class="division-overview">
+    <h2>Division Overview</h2>
+    <div class="summary-content">
+      {{summaryHtml}}
+    </div>
+  </section>
+
+  {{#if titleCount}}
+  <section class="title-list">
+    <h2>Titles</h2>
+
+    {{#each titles}}
+    <div class="title-card {{#if hasError}}title-error{{/if}}">
+      <h3 class="title-heading">
+        <button class="title-toggle" aria-expanded="false">
+          <span class="toggle-icon">+</span>
+          Title {{num}} — {{header}}
+        </button>
+      </h3>
+      <div class="title-content" hidden>
+        {{summaryHtml}}
+      </div>
+    </div>
+    {{/each}}
+  </section>
+  {{/if}}
+
+  <div class="back-link">
+    <a href="/bill/{{billId}}/">&larr; Back to bill overview</a>
+  </div>
+</article>

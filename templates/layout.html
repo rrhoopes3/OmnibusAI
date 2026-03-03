@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{description}}">
+  <meta property="og:url" content="{{pageUrl}}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{siteName}}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="{{pageUrl}}">
+  <link rel="alternate" type="application/rss+xml" title="{{siteName}} Feed" href="{{siteUrl}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav-container">
+      <a href="/" class="site-logo">
+        <span class="logo-icon">$</span>
+        <span class="logo-text">{{siteName}}</span>
+      </a>
+      <div class="nav-links">
+        <a href="/">Bills</a>
+        <a href="/about/">About</a>
+        <a href="/feed.xml" class="rss-link" title="RSS Feed">RSS</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    {{content}}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <p>{{siteName}} v{{version}} — AI-powered plain-English breakdowns of federal spending bills.</p>
+      <p>Bill text is public domain via <a href="https://www.congress.gov">Congress.gov</a> and <a href="https://www.govinfo.gov">GovInfo.gov</a>.</p>
+      <p>Summaries are AI-generated and may contain errors. Always verify against <a href="https://www.congress.gov">official sources</a>.</p>
+    </div>
+  </footer>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<nav class="breadcrumb">
+  <a href="/">Home</a> &raquo; <span>{{legisNum}}</span>
+</nav>
+
+<article class="bill-detail">
+  <header class="bill-header">
+    <h1>{{title}}</h1>
+    <div class="bill-meta">
+      <span class="meta-item">{{congress}}</span>
+      <span class="meta-item">{{legisNum}}</span>
+      <span class="meta-item">{{divisionCount}} Divisions</span>
+      <span class="meta-item">Generated {{generatedAt}}</span>
+      <span class="meta-item meta-provider">via {{provider}}</span>
+    </div>
+  </header>
+
+  <section class="bill-summary">
+    <h2>Overview</h2>
+    <div class="summary-content">
+      {{summaryHtml}}
+    </div>
+  </section>
+
+  <section class="bill-divisions">
+    <h2>Divisions</h2>
+    <p class="divisions-intro">Each division covers a major department or agency. Click to see the full breakdown.</p>
+
+    <div class="division-list">
+      {{#each divisions}}
+      <div class="division-card" id="{{slug}}">
+        <div class="division-header">
+          <h3>
+            <a href="/bill/{{billId}}/{{slug}}/">
+              Division {{num}} — {{header}}
+            </a>
+          </h3>
+          <span class="title-count">{{titleCount}} titles</span>
+        </div>
+        <div class="division-summary">
+          {{summaryHtml}}
+        </div>
+        <a href="/bill/{{billId}}/{{slug}}/" class="read-more">Full breakdown &rarr;</a>
+      </div>
+      {{/each}}
+    </div>
+  </section>
+</article>

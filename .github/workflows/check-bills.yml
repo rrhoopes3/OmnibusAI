@@ -1,0 +1,60 @@
+name: Check for New Bills
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    outputs:
+      has_new_bills: ${{ steps.check.outputs.has_new_bills }}
+      bill_ids: ${{ steps.check.outputs.bill_ids }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        working-directory: omnibus-site
+        run: npm ci
+
+      - name: Monitor for new bills
+        id: check
+        working-directory: omnibus-site
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: |
+          output=$(node scripts/monitor.js)
+          echo "$output"
+
+          # Check if any bills are ready
+          if echo "$output" | grep -q "READY_BILLS="; then
+            ids=$(echo "$output" | grep "READY_BILLS=" | cut -d= -f2)
+            echo "has_new_bills=true" >> $GITHUB_OUTPUT
+            echo "bill_ids=$ids" >> $GITHUB_OUTPUT
+          else
+            echo "has_new_bills=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit updated bill metadata
+        if: steps.check.outputs.has_new_bills == 'true'
+        run: |
+          git config user.name "OmnibusAI Bot"
+          git config user.email "bot@omnibusai.info"
+          git add omnibus-site/data/bills/
+          git diff --staged --quiet || git commit -m "feat: discovered new bills - ${{ steps.check.outputs.bill_ids }}"
+          git push
+
+  process:
+    needs: monitor
+    if: needs.monitor.outputs.has_new_bills == 'true'
+    uses: ./.github/workflows/process-bill.yml
+    with:
+      bill_ids: ${{ needs.monitor.outputs.bill_ids }}
+    secrets: inherit

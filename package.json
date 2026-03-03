@@ -1,0 +1,23 @@
+{
+  "name": "omnibus-site",
+  "version": "0.1.0",
+  "description": "Automated AI-powered breakdowns of omnibus spending bills",
+  "private": true,
+  "scripts": {
+    "monitor": "node scripts/monitor.js",
+    "fetch": "node scripts/fetch-xml.js",
+    "parse": "node scripts/parse-bill.js",
+    "summarize": "node scripts/summarize.js",
+    "build": "node scripts/build-site.js",
+    "pipeline": "node scripts/pipeline.js",
+    "serve": "npx serve public -l 3000",
+    "dev": "node scripts/build-site.js --watch"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
