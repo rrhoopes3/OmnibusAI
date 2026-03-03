@@ -10,7 +10,9 @@
   },
   "updateDate": "2026-03-03",
   "textVersion": "Introduced in House",
-  "xmlUrl": "https://www.congress.gov/119/bills/hr1222/BILLS-119hr1222ih.xml",
+  "xmlUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr1222enr/uslm/BILLS-119hr1222enr.xml",
   "discoveredAt": "2026-03-03T03:49:25.534Z",
-  "status": "ready"
+  "status": "ready",
+  "xmlSize": 44167,
+  "fetchedAt": "2026-03-03T03:56:14.445Z"
 }

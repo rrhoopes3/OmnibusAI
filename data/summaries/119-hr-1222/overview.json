@@ -1,0 +1,19 @@
+{
+  "billId": "119-hr-1222",
+  "meta": {
+    "congress": "",
+    "session": "",
+    "legisNum": "",
+    "legisType": "",
+    "officialTitle": ""
+  },
+  "divisionCount": 0,
+  "summary": "## Headline Summary\nNo omnibus appropriations bill is specified in the provided data. No signing date or fiscal year is given, and zero divisions (departments funded) are listed.\n\n## By The Numbers\n- Total spending: Not calculable (no data provided)\n- Number of divisions (departments funded): 0\n- Number of sections: Not specified\n- Key statistics: None available\n\n## Division Overview\n- No divisions provided.\n\n## Biggest Ticket Items (5-10)\nNo spending items identified across divisions (zero divisions).\n\n## Notable & Controversial\nNo policy riders, new programs, restrictions, or provisions noted due to lack of bill details.\n\n## What It Means For You\nWithout details on a specific omnibus bill, there's no direct impact to report on taxes, services, or programs. Everyday Americans would continue under prior funding levels (e.g., via continuing resolutions) if no new bill exists, potentially delaying new initiatives but maintaining baseline government operations like Social Security payments, military pay, and national parks—though prolonged uncertainty could lead to shutdown risks affecting federal workers and services. Check official sources like Congress.gov for updates on actual appropriations.",
+  "provider": "Grok",
+  "model": "grok-4-1-fast-reasoning",
+  "usage": {
+    "inputTokens": 437,
+    "outputTokens": 232
+  },
+  "generatedAt": "2026-03-03T04:01:47.662Z"
+}
