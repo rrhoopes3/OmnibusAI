@@ -23,12 +23,15 @@ function loadRawXml(billId) {
 }
 
 function extractDivisionXml(fullXml, divNum) {
-  // Extract the XML chunk for a specific division
+  // Extract the XML chunk for a specific division.
+  // USLM 2.0: <division ...><num value="A">DIVISION A—</num>
+  // Legacy: <division><enum>A</enum> or <division enum="A">
   const divPatterns = [
-    // USLM format
+    // USLM 2.0: <num value="A">
+    new RegExp(`<division[^>]*>\\s*<num[^>]*value="${divNum}"[^>]*>[\\s\\S]*?</division>`, 'i'),
+    // Legacy: <num>A</num> or <enum>A</enum>
     new RegExp(`<division[^>]*>\\s*<num>${divNum}</num>[\\s\\S]*?</division>`, 'i'),
     new RegExp(`<division[^>]*>\\s*<enum>${divNum}</enum>[\\s\\S]*?</division>`, 'i'),
-    // Legacy format
     new RegExp(`<division[^>]*enum="${divNum}"[^>]*>[\\s\\S]*?</division>`, 'i'),
   ];
 
@@ -41,6 +44,9 @@ function extractDivisionXml(fullXml, divNum) {
 
 function extractTitleXml(divXml, titleNum) {
   const patterns = [
+    // USLM 2.0: <num value="I">
+    new RegExp(`<title[^>]*>\\s*<num[^>]*value="${titleNum}"[^>]*>[\\s\\S]*?</title>`, 'i'),
+    // Legacy
     new RegExp(`<title[^>]*>\\s*<num>${titleNum}</num>[\\s\\S]*?</title>`, 'i'),
     new RegExp(`<title[^>]*>\\s*<enum>${titleNum}</enum>[\\s\\S]*?</title>`, 'i'),
   ];

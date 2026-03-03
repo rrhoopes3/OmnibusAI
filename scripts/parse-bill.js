@@ -20,11 +20,12 @@ const xmlParser = new XMLParser({
   preserveOrder: false,
   trimValues: true,
   parseTagValue: false,
+  removeNSPrefix: true,
   isArray: (name) => {
     // These elements can appear multiple times
     return ['division', 'title', 'section', 'subsection', 'paragraph',
             'subparagraph', 'appropriations-major', 'appropriations-intermediate',
-            'appropriations-small', 'toc-entry'].includes(name);
+            'appropriations-small', 'toc-entry', 'referenceItem', 'citableAs'].includes(name);
   },
 });
 
@@ -63,9 +64,18 @@ function extractDollarAmounts(text) {
   return amounts;
 }
 
+function extractNum(node) {
+  // USLM 2.0: <num value="A">DIVISION A—</num>
+  // Legacy: <enum>A</enum>
+  const numNode = node.num || node.enum;
+  if (!numNode) return node['@_identifier'] || '';
+  if (typeof numNode === 'object' && numNode['@_value']) return numNode['@_value'];
+  return extractText(numNode);
+}
+
 function parseSection(sectionNode) {
-  const num = extractText(sectionNode.enum || sectionNode['@_identifier'] || '');
-  const header = extractText(sectionNode.header || '');
+  const num = extractNum(sectionNode);
+  const header = extractText(sectionNode.header || sectionNode.heading || '');
   const fullText = extractText(sectionNode);
   const dollars = extractDollarAmounts(fullText);
 
@@ -124,8 +134,8 @@ function parseAppropriations(node, level = 'major') {
 }
 
 function parseTitle(titleNode) {
-  const num = extractText(titleNode.enum || '');
-  const header = extractText(titleNode.header || '');
+  const num = extractNum(titleNode);
+  const header = extractText(titleNode.header || titleNode.heading || '');
 
   const sections = [];
   if (titleNode.section) {
@@ -151,8 +161,8 @@ function parseTitle(titleNode) {
 }
 
 function parseDivision(divNode) {
-  const num = extractText(divNode.enum || '');
-  const header = extractText(divNode.header || '');
+  const num = extractNum(divNode);
+  const header = extractText(divNode.header || divNode.heading || '');
 
   const titles = [];
   if (divNode.title) {
@@ -190,16 +200,20 @@ function parseBill(xmlString) {
 
   // Navigate to the bill root - handle different XML formats
   let bill = parsed.bill || parsed.resolution || parsed;
-  let legisBody = bill['legis-body'] || bill.body || bill;
 
-  // Extract metadata
+  // USLM 2.0 uses <main>, legacy uses <legis-body>
+  let legisBody = bill.main || bill['legis-body'] || bill.body || bill;
+
+  // Extract metadata - USLM 2.0 uses <meta>, legacy uses <form>
   const form = bill.form || {};
+  const uslmMeta = bill.meta || {};
+  const longTitle = legisBody.longTitle || {};
   const meta = {
-    congress: extractText(form.congress || ''),
-    session: extractText(form.session || ''),
-    legisNum: extractText(form['legis-num'] || ''),
-    legisType: extractText(form['legis-type'] || ''),
-    officialTitle: extractText(form['official-title'] || ''),
+    congress: extractText(form.congress || uslmMeta.congress || ''),
+    session: extractText(form.session || uslmMeta.session || ''),
+    legisNum: extractText(form['legis-num'] || uslmMeta.docNumber || ''),
+    legisType: extractText(form['legis-type'] || uslmMeta.type || ''),
+    officialTitle: extractText(form['official-title'] || longTitle.officialTitle || uslmMeta.title || ''),
   };
 
   // Parse divisions
