@@ -20,6 +20,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest (includes monitor commit)
+        run: git pull origin main
 
       - uses: actions/setup-node@v4
         with:
@@ -35,7 +40,7 @@ jobs:
         run: |
           IFS=',' read -ra IDS <<< "${{ inputs.bill_ids }}"
           for id in "${IDS[@]}"; do
-            node scripts/parse-bill.js "$id"
+            node scripts/parse-bill.js "$id" || echo "Warning: parse failed for $id, skipping"
           done
 
       - name: Generate AI summaries
@@ -55,7 +60,7 @@ jobs:
         run: |
           IFS=',' read -ra IDS <<< "${{ inputs.bill_ids }}"
           for id in "${IDS[@]}"; do
-            node scripts/summarize.js "$id"
+            node scripts/summarize.js "$id" || echo "Warning: summarize failed for $id, skipping"
           done
 
       - name: Build static site

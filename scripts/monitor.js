@@ -109,6 +109,7 @@ async function monitor() {
   const apiKey = getApiKey();
   const processed = getProcessedBills();
   const newBills = [];
+  const seen = new Set();
 
   console.log(`Checking for new appropriations bills...`);
   console.log(`Already processed: ${processed.size} bills`);
@@ -120,7 +121,9 @@ async function monitor() {
       for (const bill of bills) {
         const id = billId(bill);
         if (processed.has(id)) continue;
+        if (seen.has(id)) continue;
         if (!BILL_TYPES.includes(bill.type.toLowerCase())) continue;
+        seen.add(id);
 
         // Check if bill has text available
         const textVersions = await getBillText(apiKey, bill.congress, bill.type.toLowerCase(), bill.number);
