@@ -10,7 +10,9 @@
   },
   "updateDate": "2026-03-04",
   "textVersion": "Enrolled Bill",
-  "xmlUrl": "https://www.congress.gov/114/bills/hr5325/BILLS-114hr5325enr.xml",
+  "xmlUrl": "https://www.govinfo.gov/content/pkg/BILLS-114hr5325enr/uslm/BILLS-114hr5325enr.xml",
   "discoveredAt": "2026-03-04T13:04:18.125Z",
-  "status": "ready"
+  "status": "ready",
+  "xmlSize": 318295,
+  "fetchedAt": "2026-03-04T13:04:37.740Z"
 }

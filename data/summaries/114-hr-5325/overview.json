@@ -1,0 +1,19 @@
+{
+  "billId": "114-hr-5325",
+  "meta": {
+    "congress": "",
+    "session": "",
+    "legisNum": "",
+    "legisType": "",
+    "officialTitle": ""
+  },
+  "divisionCount": 0,
+  "summary": "## Headline Summary\nNo specific omnibus appropriations bill details were provided, including the bill name, congressional session, signing date, or fiscal year coverage. Without this data, a full overview cannot be generated.\n\n## By The Numbers\n- Total spending: Not provided (uncalculable)\n- Number of divisions (departments funded): 0\n- Number of sections: Not provided\n- Key statistics: None available\n\n## Division Overview\nNo divisions provided.\n\n## Biggest Ticket Items (5-10)\nNo spending items identified across divisions.\n\n## Notable & Controversial\nNo policy riders, new programs, restrictions, or provisions detailed.\n\n## What It Means For You\nWithout bill details, this has no direct impact on taxes, services, or programs for everyday Americans. Omnibus bills typically fund government operations, but zero divisions suggest no funding allocations were specified here.",
+  "provider": "Grok",
+  "model": "grok-4-1-fast-reasoning",
+  "usage": {
+    "inputTokens": 437,
+    "outputTokens": 174
+  },
+  "generatedAt": "2026-03-04T13:04:52.462Z"
+}

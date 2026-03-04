@@ -1,0 +1,19 @@
+{
+  "billId": "114-hr-2028",
+  "meta": {
+    "congress": "",
+    "session": "",
+    "legisNum": "",
+    "legisType": "",
+    "officialTitle": ""
+  },
+  "divisionCount": 0,
+  "summary": "## Headline Summary\nNo omnibus appropriations bill details were provided in this query. No signing date or fiscal year coverage is specified, and there are zero divisions listed.\n\n## By The Numbers\n- Total spending: $0 (no data provided)\n- Number of divisions (departments funded): 0\n- Number of sections: 0 (not specified)\n- Key statistics: No aggregate spending data or other metrics available\n\n## Division Overview\nNo divisions provided.\n\n## Biggest Ticket Items\nNone identified (no funding data across divisions).\n\n## Notable & Controversial\nNo policy riders, new programs, restrictions, or provisions noted, as no bill content was supplied.\n\n## What It Means For You\nWith no bill details or funding allocations provided, this has no direct impact on taxes, government services, or programs everyday Americans rely on like Social Security, Medicare, defense, education, or infrastructure—federal spending continues under prior laws or continuing resolutions until new appropriations are enacted.",
+  "provider": "Grok",
+  "model": "grok-4-1-fast-reasoning",
+  "usage": {
+    "inputTokens": 437,
+    "outputTokens": 194
+  },
+  "generatedAt": "2026-03-04T13:04:45.381Z"
+}
