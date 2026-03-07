@@ -1,0 +1,13 @@
+{
+  "division": "G",
+  "header": "OTHER MATTERS",
+  "summary": "## Overview\nDivision G, titled \"OTHER MATTERS,\" does not fund any specific department or agency. Instead, it contains a single policy provision that restricts the use of already appropriated funds for foreign aid programs.\n\n## Total Spending\nNo new appropriations are made in this division. It imposes limitations on funds appropriated elsewhere, primarily in Division F (Department of State, foreign operations, and related programs), so the total spending impact is $0 in new money.\n\n## Key Funding Areas\n- None. This division includes no funding allocations, only restrictions on existing funds.\n\n## Notable Provisions\n- **Funding Ban for UNRWA (Sec. 101)**: Prohibits any use of funds from Division F or other State Department/foreign operations appropriations for contributions, grants, or payments to the United Nations Relief and Works Agency (UNRWA), overriding other laws.\n  - Applies fully to prior fiscal years and fiscal year 2026 (no funds at all).\n  - For fiscal year 2027, funds are blocked until March 25, 2027.\n\n## Who Benefits\n- US taxpayers and policymakers seeking to restrict foreign aid, by preventing US funds from supporting UNRWA operations.\n- Indirectly affects UNRWA's aid recipients (primarily Palestinian refugees in the Middle East), as the agency receives no US contributions under these rules.\n\n## Plain English Summary\nThis short section of the bill is basically a \"no money for UNRWA\" rule—it stops any US foreign aid bucks from going to the UN's Relief and Works Agency right now through 2026, and holds off until late March 2027 for next year's funds too. No new spending here; it's just tying the hands of folks at the State Department who might want to send cash that way.",
+  "provider": "Grok",
+  "model": "grok-4-1-fast-reasoning",
+  "usage": {
+    "inputTokens": 979,
+    "outputTokens": 357
+  },
+  "titles": [],
+  "generatedAt": "2026-03-03T04:27:22.554Z"
+}
