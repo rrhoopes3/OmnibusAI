@@ -10,7 +10,9 @@
   },
   "updateDate": "2026-03-12",
   "textVersion": "Enrolled Bill",
-  "xmlUrl": "https://www.congress.gov/119/bills/hr5371/BILLS-119hr5371enr.xml",
+  "xmlUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371enr/uslm/BILLS-119hr5371enr.xml",
   "discoveredAt": "2026-03-12T18:58:59.697Z",
-  "status": "ready"
+  "status": "ready",
+  "xmlSize": 911307,
+  "fetchedAt": "2026-03-12T18:59:16.734Z"
 }
