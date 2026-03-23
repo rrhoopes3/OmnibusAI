@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="uslm.css"?><bill xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.10.xsd">
+<!--Disclaimer: Legislative measures that include compacts or other non-standard data structures will require additional modeling and may contain inconsistencies in the converted USLM XML.-->
+<meta><dc:title>117 HR 4373 ENR: Making further continuing appropriations for the fiscal year ending September 30, 2023, and for other purposes.</dc:title>
+<dc:type>House Bill</dc:type><docNumber>4373</docNumber><citableAs>117 HR 4373 ENR</citableAs>
+<citableAs>117hr4373enr</citableAs>
+<citableAs>117 H.R. 4373 ENR</citableAs>
+<dc:creator>United States House of Representatives</dc:creator><dc:publisher>United States Government Publishing Office</dc:publisher><dc:format>text/xml</dc:format><dc:language>EN</dc:language><dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights><docStage>ENR</docStage>
+<processedBy>GPO Locator to USLM Converter 3.11.8;Stage2.20220127</processedBy><processedDate>2022-12-27</processedDate>
+<congress>117</congress><session>2</session><publicPrivate>public</publicPrivate>
+</meta>
+<preface><dc:type>H. R.</dc:type><docNumber>4373</docNumber>
+
+<congress style="-uslm-lc:I665502" value="117">One Hundred Seventeenth Congress of the United States of America</congress><session style="-uslm-lc:I665503" value="2">A T T  H  E S  E  C  O  N  D S  E  S  S  I  O  N</session>
+<enrolledDateline style="-uslm-lc:I665504">Begun and held at the City of Washington on Monday, the third day of January, two thousand and twenty-two</enrolledDateline>
+</preface>
+<main>
+<longTitle>
+<docTitle class="centered fontsize18" style="-uslm-lc:I665505">An Act</docTitle>
+<officialTitle class="centered fontsize8" style="-uslm-lc:I665511">Making further continuing appropriations for the fiscal year ending September 30, 2023, and for other purposes.<?GPOvSpace 08?></officialTitle>
+</longTitle>
+<enactingFormula style="-uslm-lc:I650120">  Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,</enactingFormula>
+<section id="d1661e62" identifier="/us/bill/117/hr/4373/s1" style="-uslm-lc:I650146"><num value="1">SECTION 1. </num><heading>SHORT TITLE.</heading><content style="-uslm-lc:I650120">  This Act may be cited as the “<shortTitle role="act">Further Additional Continuing Appropriations and Extensions Act, 2023</shortTitle>”.</content></section>
+<section id="d1661e72" identifier="/us/bill/117/hr/4373/s2" style="-uslm-lc:I650141"><num value="2">SEC. 2. </num><heading>TABLE OF CONTENTS.</heading><content class="indentUp0 firstIndent1 fontsize10" style="-uslm-lc:I650120">  The table of contents of this Act is as follows:<toc>
+<referenceItem role="section" style="-uslm-lc:I651142">
+<designator>Sec. 1. </designator>
+<label>Short Title.</label>
+</referenceItem><referenceItem role="section" style="-uslm-lc:I651142">
+<designator>Sec. 2. </designator>
+<label>Table of Contents.</label>
+</referenceItem><referenceItem role="section" style="-uslm-lc:I651142">
+<designator>Sec. 3. </designator>
+<label>References.</label>
+</referenceItem><referenceItem role="division" style="-uslm-lc:I651174">
+<designator>DIVISION A—</designator>
+<label>FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2023</label>
+</referenceItem><referenceItem role="division" style="-uslm-lc:I651174">
+<designator>DIVISION B—</designator>
+<label>OTHER MATTERS</label>
+</referenceItem><referenceItem role="title" style="-uslm-lc:I651142">
+<designator>Title I—</designator>
+<label>Extensions</label>
+</referenceItem><referenceItem role="title" style="-uslm-lc:I651142">
+<designator>Title II—</designator>
+<label>Budgetary Effects</label>
+</referenceItem></toc></content></section>
+<section id="d1661e117" identifier="/us/bill/117/hr/4373/s3" style="-uslm-lc:I650141"><num value="3">SEC. 3. </num><heading>REFERENCES.</heading><content style="-uslm-lc:I650120">  Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.</content></section>
+<division id="d1661e125" identifier="/us/bill/117/hr/4373/dA" style="-uslm-lc:I650174"><num value="A">DIVISION A—</num><heading>FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2023</heading>
+<section id="d1661e130" identifier="/us/bill/117/hr/4373/dA/s101" role="instruction" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="101"><inline class="smallCaps">Sec. 101. </inline> </num><content class="inline">The Continuing Appropriations Act, 2023 (<ref href="/us/pl/117/180/dA">division A of Public Law 117–180</ref>) <amendingAction type="amend">is amended</amendingAction> by <amendingAction type="delete">striking</amendingAction> the date specified in section 106(3) and <amendingAction type="insert">inserting</amendingAction> “<quotedText>December 30, 2022</quotedText>”.</content></section><level><p class="indentUp0 firstIndent1 fontsize10" style="-uslm-lc:I650120">  This division may be cited as the “<shortTitle role="division">Further Additional Continuing Appropriations Act, 2023</shortTitle>”.</p></level>
+</division>
+<division id="d1661e159" identifier="/us/bill/117/hr/4373/dB" style="-uslm-lc:I650178"><num value="B">DIVISION B—</num><heading>OTHER MATTERS</heading>
+<title id="d1661e164" identifier="/us/bill/117/hr/4373/dB/tI" style="-uslm-lc:I650178"><num value="I">TITLE I—</num><heading>EXTENSIONS</heading>
+<section id="d1661e169" identifier="/us/bill/117/hr/4373/dB/tI/s101" style="-uslm-lc:I650143"><num value="101">SEC. 101. </num><heading>EXTENSION OF FCC AUCTION AUTHORITY.</heading><content style="-uslm-lc:I650120">  Section 309(j)(11) of the Communications Act of 1934 (<ref href="/us/usc/t47/s309/j/11">47 U.S.C. 309(j)(11)</ref>) shall be applied by substituting “December 30, 2022” for “December 23, 2022”.</content></section>
+<section id="d1661e179" identifier="/us/bill/117/hr/4373/dB/tI/s102" style="-uslm-lc:I650143"><num value="102">SEC. 102. </num><heading>EXTENSION OF AUTHORIZATION FOR SPECIAL ASSESSMENT FOR DOMESTIC TRAFFICKING VICTIMS’ FUND.</heading><content style="-uslm-lc:I650120">  <ref href="/us/usc/t18/s3014/a">Section 3014(a) of title 18, United States Code</ref>, shall be applied, in the matter preceding paragraph (1), by substituting “December 30, 2022” for “December 23, 2022”.</content></section>
+<section id="d1661e189" identifier="/us/bill/117/hr/4373/dB/tI/s103" style="-uslm-lc:I650143"><num value="103">SEC. 103. </num><heading>UNITED STATES PAROLE COMMISSION EXTENSION.</heading><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e193" identifier="/us/bill/117/hr/4373/dB/tI/s103/a" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="a">(a) </num><heading><inline class="smallCaps">Short Title</inline>.—</heading><content>This section may be cited as the “<shortTitle role="section">United States Parole Commission Further Additional Extension Act of 2022</shortTitle>”.</content></subsection><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e205" identifier="/us/bill/117/hr/4373/dB/tI/s103/b" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="b">(b) </num><heading><inline class="smallCaps">Amendment of Sentencing Reform Act of 1984</inline>.—</heading><content>For purposes of section 235(b) of the Sentencing Reform Act of 1984 (<ref href="/us/usc/t18/s3551">18 U.S.C. 3551 note</ref>; <ref href="/us/pl/98/473">Public Law 98–473</ref>; <ref href="/us/stat/98/2032">98 Stat. 2032</ref>), as such section relates to <ref href="/us/usc/t18/ch311">chapter 311 of title 18, United States Code</ref>, and the United States Parole Commission, each reference in such section to “35 years and 46 days” or “35-year and 46-day period” shall be applied as if it were a reference to “35 years and 60 days” or “35-year and 60-day period”, respectively.</content></subsection><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e226" identifier="/us/bill/117/hr/4373/dB/tI/s103/c" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="c">(c) </num><heading><inline class="smallCaps">Effective Date</inline>.—</heading><content>Subsection (b) shall take effect as though enacted as part of the Further Continuing Appropriations and Extensions Act, 2023.</content></subsection><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e234" identifier="/us/bill/117/hr/4373/dB/tI/s103/d" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="d">(d) </num><heading><inline class="smallCaps">Superseded Provision</inline>.—</heading><content>Section 103 of division B of the Further Continuing Appropriations and Extensions Act, 2023 shall have no force or effect.</content></subsection></section>
+<section id="d1661e243" identifier="/us/bill/117/hr/4373/dB/tI/s104" style="-uslm-lc:I650143"><num value="104">SEC. 104. </num><heading>EXTENSION OF COMMODITY FUTURES TRADING COMMISSION CUSTOMER PROTECTION FUND EXPENSES ACCOUNT.</heading><content style="-uslm-lc:I650120">  <ref href="/us/pl/117/25/s1/b">Section 1(b) of Public Law 117–25</ref> (<ref href="/us/stat/135/297">135 Stat. 297</ref>) shall be applied by substituting “December 30, 2022” for “December 23, 2022” each place it appears.</content></section>
+<section id="d1661e257" identifier="/us/bill/117/hr/4373/dB/tI/s105" style="-uslm-lc:I650143"><num value="105">SEC. 105. </num><heading>EXTENSION OF MORATORIUM.</heading><content style="-uslm-lc:I650120">  <ref href="/us/pl/113/76/dG/tIV/s424/a">Section 424(a) of title IV of division G of Public Law 113–76</ref> shall be applied by substituting “December 31, 2022” for “December 24, 2022”.</content></section>
+</title>
+<title id="d1661e268" identifier="/us/bill/117/hr/4373/dB/tII" style="-uslm-lc:I650178"><num value="II">TITLE II—</num><heading>BUDGETARY EFFECTS</heading>
+<section id="d1661e273" identifier="/us/bill/117/hr/4373/dB/tII/s201" style="-uslm-lc:I650143"><num value="201">SEC. 201. </num><heading>BUDGETARY EFFECTS.</heading><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e277" identifier="/us/bill/117/hr/4373/dB/tII/s201/a" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="a">(a) </num><heading><inline class="smallCaps">Statutory PAYGO Scorecards</inline>.—</heading><content>The budgetary effects of this division shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.</content></subsection><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e285" identifier="/us/bill/117/hr/4373/dB/tII/s201/b" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="b">(b) </num><heading><inline class="smallCaps">Senate PAYGO Scorecards</inline>.—</heading><content>The budgetary effects of this division shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress).</content></subsection><subsection class="indentUp0 firstIndent1 fontsize10" id="d1661e293" identifier="/us/bill/117/hr/4373/dB/tII/s201/c" style="-uslm-lc:I650120"><num style="-uslm-lc:emspace2" value="c">(c) </num><heading><inline class="smallCaps">Classification of Budgetary Effects</inline>.—</heading><chapeau>Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this division shall not be estimated—</chapeau><paragraph class="indentUp1 firstIndent1 fontsize10" id="d1661e301" identifier="/us/bill/117/hr/4373/dB/tII/s201/c/1" style="-uslm-lc:I650122"><num style="-uslm-lc:emspace2" value="1">(1) </num><content>for purposes of section 251 of such Act;</content></paragraph><paragraph class="indentUp1 firstIndent1 fontsize10" id="d1661e305" identifier="/us/bill/117/hr/4373/dB/tII/s201/c/2" style="-uslm-lc:I650122"><num style="-uslm-lc:emspace2" value="2">(2) </num><content>for purposes of an allocation to the Committee on Appropriations pursuant to section 302(a) of the Congressional Budget Act of 1974; and</content></paragraph><paragraph class="indentUp1 firstIndent1 fontsize10" id="d1661e309" identifier="/us/bill/117/hr/4373/dB/tII/s201/c/3" style="-uslm-lc:I650122"><num style="-uslm-lc:emspace2" value="3">(3) </num><content>for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act.</content></paragraph></subsection></section>
+</title>
+</division>
+</main>
+<signatures>
+<signature><role style="-uslm-lc:I650114">Speaker of the House of Representatives.</role></signature>
+<signature><role style="-uslm-lc:I650114">Vice President of the United States and  President of the Senate.</role></signature>
+</signatures>
+</bill>

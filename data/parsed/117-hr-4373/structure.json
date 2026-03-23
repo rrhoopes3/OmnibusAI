@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "congress": "117",
+    "session": "2",
+    "legisNum": "4373",
+    "legisType": "House Bill",
+    "officialTitle": "Making further continuing appropriations for the fiscal year ending September 30, 2023, and for other purposes."
+  },
+  "divisionCount": 2,
+  "divisions": [
+    {
+      "num": "A",
+      "header": "FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2023",
+      "titleCount": 0,
+      "titles": [],
+      "directSections": [
+        {
+          "num": "101",
+          "header": "",
+          "text": "Sec. 101.The Continuing Appropriations Act, 2023 ()bythe date specified in section 106(3) and“”.",
+          "fullTextLength": 96,
+          "dollars": [],
+          "subsections": []
+        }
+      ],
+      "totalDollars": [],
+      "textLength": 198
+    },
+    {
+      "num": "B",
+      "header": "OTHER MATTERS",
+      "titleCount": 2,
+      "titles": [
+        {
+          "num": "I",
+          "header": "EXTENSIONS",
+          "sectionCount": 5,
+          "sections": [
+            {
+              "num": "101",
+              "header": "EXTENSION OF FCC AUCTION AUTHORITY.",
+              "text": "SEC. 101.EXTENSION OF FCC AUCTION AUTHORITY.Section 309(j)(11) of the Communications Act of 1934 () shall be applied by substituting “December 30, 2022” for “December 23, 2022”.",
+              "fullTextLength": 177,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "102",
+              "header": "EXTENSION OF AUTHORIZATION FOR SPECIAL ASSESSMENT FOR DOMESTIC TRAFFICKING VICTIMS’ FUND.",
+              "text": "SEC. 102.EXTENSION OF AUTHORIZATION FOR SPECIAL ASSESSMENT FOR DOMESTIC TRAFFICKING VICTIMS’ FUND., shall be applied, in the matter preceding paragraph (1), by substituting “December 30, 2022” for “December 23, 2022”.",
+              "fullTextLength": 217,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "103",
+              "header": "UNITED STATES PAROLE COMMISSION EXTENSION.",
+              "text": "SEC. 103.UNITED STATES PAROLE COMMISSION EXTENSION.(a).—This section may be cited as the “”. (b).—For purposes of section 235(b) of the Sentencing Reform Act of 1984 (;;), as such section relates to, and the United States Parole Commission, each reference in such section to “35 years and 46 days” or “35-year and 46-day period” shall be applied as if it were a reference to “35 years and 60 days” or “35-year and 60-day period”, respectively. (c).—Subsection (b) shall take effect as though enacted as part of the Further Continuing Appropriations and Extensions Act, 2023. (d).—Section 103 of division B of the Further Continuing Appropriations and Extensions Act, 2023 shall have no force or effect.",
+              "fullTextLength": 702,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a).—This section may be cited as the “”."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b).—For purposes of section 235(b) of the Sentencing Reform Act of 1984 (;;), as such section relates to, and the United States Parole Commission, each reference in such section to “35 years and 46 days” or “35-year and 46-day period” shall be applied as if it were a reference to “35 years and 60 days” or “35-year and 60-day period”, respectively."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c).—Subsection (b) shall take effect as though enacted as part of the Further Continuing Appropriations and Extensions Act, 2023."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d).—Section 103 of division B of the Further Continuing Appropriations and Extensions Act, 2023 shall have no force or effect."
+                }
+              ]
+            },
+            {
+              "num": "104",
+              "header": "EXTENSION OF COMMODITY FUTURES TRADING COMMISSION CUSTOMER PROTECTION FUND EXPENSES ACCOUNT.",
+              "text": "SEC. 104.EXTENSION OF COMMODITY FUTURES TRADING COMMISSION CUSTOMER PROTECTION FUND EXPENSES ACCOUNT.() shall be applied by substituting “December 30, 2022” for “December 23, 2022” each place it appears.",
+              "fullTextLength": 203,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "105",
+              "header": "EXTENSION OF MORATORIUM.",
+              "text": "SEC. 105.EXTENSION OF MORATORIUM.shall be applied by substituting “December 31, 2022” for “December 24, 2022”.",
+              "fullTextLength": 110,
+              "dollars": [],
+              "subsections": []
+            }
+          ],
+          "appropriations": [],
+          "totalDollars": [],
+          "textLength": 1431
+        },
+        {
+          "num": "II",
+          "header": "BUDGETARY EFFECTS",
+          "sectionCount": 1,
+          "sections": [
+            {
+              "num": "201",
+              "header": "BUDGETARY EFFECTS.",
+              "text": "SEC. 201.BUDGETARY EFFECTS.(a).—The budgetary effects of this division shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010. (b).—The budgetary effects of this division shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress). (c).—Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this division shall not be estimated—(1)for purposes of section 251 of such Act; (2)for purposes of an allocation to the Committee on Appropriations pursuant to section 302(a) of the Congressional Budget Act of 1974; and (3)for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act.",
+              "fullTextLength": 1012,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a).—The budgetary effects of this division shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b).—The budgetary effects of this division shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress)."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c).—Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this division shall not be estimated—(1)for purposes of section 251 of such Act; (2)for purposes of an allocation to the Committee on Appropriations pursuant to section 302(a) of the Congressional Budget Act of 1974; and (3)for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act."
+                }
+              ]
+            }
+          ],
+          "appropriations": [],
+          "totalDollars": [],
+          "textLength": 1038
+        }
+      ],
+      "directSections": [],
+      "totalDollars": [],
+      "textLength": 2494
+    }
+  ],
+  "topSections": [
+    {
+      "num": "1",
+      "header": "SHORT TITLE.",
+      "text": "SECTION 1.SHORT TITLE.This Act may be cited as the “”.",
+      "fullTextLength": 54,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "2",
+      "header": "TABLE OF CONTENTS.",
+      "text": "SEC. 2.TABLE OF CONTENTS.The table of contents of this Act is as follows:",
+      "fullTextLength": 73,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "3",
+      "header": "REFERENCES.",
+      "text": "SEC. 3.REFERENCES.Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.",
+      "fullTextLength": 194,
+      "dollars": [],
+      "subsections": []
+    }
+  ],
+  "spending": {
+    "totalMentions": 0,
+    "largestAmounts": []
+  },
+  "parsedAt": "2026-03-23T19:00:46.451Z"
+}
