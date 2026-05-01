@@ -1,0 +1,2166 @@
+{
+  "meta": {
+    "congress": "119",
+    "session": "2",
+    "legisNum": "7147",
+    "legisType": "House Bill",
+    "officialTitle": "Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes."
+  },
+  "divisionCount": 2,
+  "divisions": [
+    {
+      "num": "A",
+      "header": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026",
+      "titleCount": 5,
+      "titles": [
+        {
+          "num": "I",
+          "header": "DEPARTMENTAL MANAGEMENT, INTELLIGENCE, SITUATIONAL AWARENESS, AND OVERSIGHT",
+          "sectionCount": 0,
+          "sections": [],
+          "appropriations": [],
+          "totalDollars": [
+            {
+              "raw": "$316,295,000,",
+              "value": 316295000
+            },
+            {
+              "raw": "$22,050,000",
+              "value": 22050000
+            },
+            {
+              "raw": "$8,911,000,",
+              "value": 8911000
+            },
+            {
+              "raw": "$1,690,380,000,",
+              "value": 1690380000
+            },
+            {
+              "raw": "$58,106,000,",
+              "value": 58106000
+            },
+            {
+              "raw": "$340,819,000,",
+              "value": 340819000
+            },
+            {
+              "raw": "$121,274,000",
+              "value": 121274000
+            },
+            {
+              "raw": "$257,599,000,",
+              "value": 257599000
+            },
+            {
+              "raw": "$20,000,000",
+              "value": 20000000
+            },
+            {
+              "raw": "$12,814,000",
+              "value": 12814000
+            },
+            {
+              "raw": "$5,000,000",
+              "value": 5000000
+            },
+            {
+              "raw": "$20,000,000,",
+              "value": 20000000
+            }
+          ],
+          "textLength": 12906
+        },
+        {
+          "num": "II",
+          "header": "SECURITY, ENFORCEMENT, AND INVESTIGATIONS",
+          "sectionCount": 0,
+          "sections": [],
+          "appropriations": [],
+          "totalDollars": [
+            {
+              "raw": "$11,083,012,000",
+              "value": 11083012000
+            },
+            {
+              "raw": "$3,274,000",
+              "value": 3274000
+            },
+            {
+              "raw": "$550,000,000",
+              "value": 550000000
+            },
+            {
+              "raw": "$222,886,000,",
+              "value": 222886000
+            },
+            {
+              "raw": "$10,635,434,000,",
+              "value": 10635434000
+            },
+            {
+              "raw": "$300,000,000",
+              "value": 300000000
+            },
+            {
+              "raw": "$330,230,000,",
+              "value": 330230000
+            },
+            {
+              "raw": "$24,000,000,",
+              "value": 24000000
+            },
+            {
+              "raw": "$700,000",
+              "value": 700000
+            },
+            {
+              "raw": "$31,000,000",
+              "value": 31000000
+            },
+            {
+              "raw": "$11,272,401,000,",
+              "value": 11272401000
+            },
+            {
+              "raw": "$530,000,000",
+              "value": 530000000
+            },
+            {
+              "raw": "$24,500,000",
+              "value": 24500000
+            },
+            {
+              "raw": "$20,000,000",
+              "value": 20000000
+            },
+            {
+              "raw": "$25,335,000",
+              "value": 25335000
+            },
+            {
+              "raw": "$400,000,000",
+              "value": 400000000
+            },
+            {
+              "raw": "$991,872,000,",
+              "value": 991872000
+            },
+            {
+              "raw": "$20,000,000",
+              "value": 20000000
+            },
+            {
+              "raw": "$6,763,000,",
+              "value": 6763000
+            },
+            {
+              "raw": "$500,000",
+              "value": 500000
+            },
+            {
+              "raw": "$1,249,000,000,",
+              "value": 1249000000
+            },
+            {
+              "raw": "$3,128,304,000,",
+              "value": 3128304000
+            },
+            {
+              "raw": "$96,299,000",
+              "value": 96299000
+            },
+            {
+              "raw": "$20,000,000",
+              "value": 20000000
+            },
+            {
+              "raw": "$6,000,000",
+              "value": 6000000
+            },
+            {
+              "raw": "$33,000,000",
+              "value": 33000000
+            },
+            {
+              "raw": "$118,517,000,",
+              "value": 118517000
+            },
+            {
+              "raw": "$96,167,000",
+              "value": 96167000
+            },
+            {
+              "raw": "$22,350,000",
+              "value": 22350000
+            },
+            {
+              "raw": "$3,250,000,",
+              "value": 3250000
+            },
+            {
+              "raw": "$98,000,000,",
+              "value": 98000000
+            },
+            {
+              "raw": "$15,000,000",
+              "value": 15000000
+            },
+            {
+              "raw": "$2,000,000,",
+              "value": 2000000
+            },
+            {
+              "raw": "$40,000,000",
+              "value": 40000000
+            },
+            {
+              "raw": "$24,000,000",
+              "value": 24000000
+            },
+            {
+              "raw": "$31,000,000,",
+              "value": 31000000
+            },
+            {
+              "raw": "$31,000,000,",
+              "value": 31000000
+            },
+            {
+              "raw": "$31,000,000",
+              "value": 31000000
+            }
+          ],
+          "textLength": 23615
+        },
+        {
+          "num": "III",
+          "header": "PROTECTION, PREPAREDNESS, RESPONSE, AND RECOVERY",
+          "sectionCount": 0,
+          "sections": [],
+          "appropriations": [],
+          "totalDollars": [
+            {
+              "raw": "$2,218,634,000,",
+              "value": 2218634000
+            },
+            {
+              "raw": "$386,464,000,",
+              "value": 386464000
+            },
+            {
+              "raw": "$1,667,038,000",
+              "value": 1667038000
+            },
+            {
+              "raw": "$156,419,000,",
+              "value": 156419000
+            },
+            {
+              "raw": "$92,794,000",
+              "value": 92794000
+            },
+            {
+              "raw": "$63,625,000",
+              "value": 63625000
+            },
+            {
+              "raw": "$3,836,748,513,",
+              "value": 3836748513
+            },
+            {
+              "raw": "$494,000,000",
+              "value": 494000000
+            },
+            {
+              "raw": "$85,500,000",
+              "value": 85500000
+            },
+            {
+              "raw": "$14,250,000",
+              "value": 14250000
+            },
+            {
+              "raw": "$584,250,000",
+              "value": 584250000
+            },
+            {
+              "raw": "$300,000,000",
+              "value": 300000000
+            },
+            {
+              "raw": "$150,000,000",
+              "value": 150000000
+            },
+            {
+              "raw": "$150,000,000",
+              "value": 150000000
+            },
+            {
+              "raw": "$99,750,000",
+              "value": 99750000
+            },
+            {
+              "raw": "$9,500,000",
+              "value": 9500000
+            },
+            {
+              "raw": "$1,900,000",
+              "value": 1900000
+            },
+            {
+              "raw": "$95,000,000",
+              "value": 95000000
+            },
+            {
+              "raw": "$684,000,000,",
+              "value": 684000000
+            },
+            {
+              "raw": "$342,000,000",
+              "value": 342000000
+            },
+            {
+              "raw": "$342,000,000",
+              "value": 342000000
+            },
+            {
+              "raw": "$337,250,000",
+              "value": 337250000
+            },
+            {
+              "raw": "$297,113,000",
+              "value": 297113000
+            },
+            {
+              "raw": "$11,400,000",
+              "value": 11400000
+            },
+            {
+              "raw": "$11,400,000",
+              "value": 11400000
+            },
+            {
+              "raw": "$123,500,000",
+              "value": 123500000
+            },
+            {
+              "raw": "$48,000,000",
+              "value": 48000000
+            },
+            {
+              "raw": "$272,671,513",
+              "value": 272671513
+            },
+            {
+              "raw": "$82,957,854,",
+              "value": 82957854
+            },
+            {
+              "raw": "$189,713,659,",
+              "value": 189713659
+            },
+            {
+              "raw": "$478,414,000",
+              "value": 478414000
+            },
+            {
+              "raw": "$85,711,000",
+              "value": 85711000
+            },
+            {
+              "raw": "$17,100,000",
+              "value": 17100000
+            },
+            {
+              "raw": "$33,366,000",
+              "value": 33366000
+            },
+            {
+              "raw": "$72,140,000",
+              "value": 72140000
+            },
+            {
+              "raw": "$95,950,000",
+              "value": 95950000
+            },
+            {
+              "raw": "$15,200,000",
+              "value": 15200000
+            },
+            {
+              "raw": "$21,266,000",
+              "value": 21266000
+            },
+            {
+              "raw": "$83,657,000",
+              "value": 83657000
+            },
+            {
+              "raw": "$34,465,000",
+              "value": 34465000
+            },
+            {
+              "raw": "$19,559,000",
+              "value": 19559000
+            },
+            {
+              "raw": "$26,367,000,000,",
+              "value": 26367000000
+            },
+            {
+              "raw": "$226,000,000,",
+              "value": 226000000
+            },
+            {
+              "raw": "$16,302,000",
+              "value": 16302000
+            },
+            {
+              "raw": "$209,698,000",
+              "value": 209698000
+            },
+            {
+              "raw": "$230,669,000",
+              "value": 230669000
+            },
+            {
+              "raw": "$1,505,000,000",
+              "value": 1505000000
+            },
+            {
+              "raw": "$175,000,000,",
+              "value": 175000000
+            },
+            {
+              "raw": "$4,000,000",
+              "value": 4000000
+            },
+            {
+              "raw": "$100,000",
+              "value": 100000
+            },
+            {
+              "raw": "$1,000,000",
+              "value": 1000000
+            }
+          ],
+          "textLength": 15859
+        },
+        {
+          "num": "IV",
+          "header": "RESEARCH, DEVELOPMENT, TRAINING, AND SERVICES",
+          "sectionCount": 0,
+          "sections": [],
+          "appropriations": [],
+          "totalDollars": [
+            {
+              "raw": "$122,941,000",
+              "value": 122941000
+            },
+            {
+              "raw": "$379,837,000,",
+              "value": 379837000
+            },
+            {
+              "raw": "$75,551,000",
+              "value": 75551000
+            },
+            {
+              "raw": "$18,300,000,",
+              "value": 18300000
+            },
+            {
+              "raw": "$352,802,000,",
+              "value": 352802000
+            },
+            {
+              "raw": "$201,183,000",
+              "value": 201183000
+            },
+            {
+              "raw": "$51,500,000,",
+              "value": 51500000
+            },
+            {
+              "raw": "$426,904,000,",
+              "value": 426904000
+            }
+          ],
+          "textLength": 4446
+        },
+        {
+          "num": "V",
+          "header": "GENERAL PROVISIONS",
+          "sectionCount": 49,
+          "sections": [
+            {
+              "num": "501",
+              "header": "(including transfers and rescissions of funds)",
+              "text": "(including transfers and rescissions of funds)Sec. 501.No part of any appropriation contained in this Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.",
+              "fullTextLength": 211,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "502",
+              "header": "",
+              "text": "Sec. 502.Subject to the requirements of section 503 of this Act, the unexpended balances of prior appropriations provided for activities in this Act may be transferred to appropriation accounts for such activities established pursuant to this Act, may be merged with funds in the applicable established accounts, and thereafter may be accounted for as one fund for the same time period as originally enacted.",
+              "fullTextLength": 408,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "503",
+              "header": "",
+              "text": "Sec. 503.(a)None of the funds provided by this Act, provided by previous appropriations Acts to the components in or transferred to the Department of Homeland Security that remain available for obligation or expenditure in fiscal year 2026, or provided from any accounts in the Treasury of the United States derived by the collection of fees available to the components funded by this Act, shall be available for obligation or expenditure through a reprogramming of funds that—(1)creates or eliminates a program, project, or activity, or increases funds for any program, project, or activity for which funds have been denied or restricted by the Congress; (2)contracts out any function or activity presently performed by Federal employees or any new function or activity proposed to be performed by Federal employees in the President’s budget proposal for fiscal year 2026 for the Department of Homeland Security; (3)augments funding for existing programs, projects, or activities in excess of $5,000,000 or 10 percent, whichever is less; (4)reduces funding for any program, project, or activity, or numbers of personnel, by 10 percent or more; or (5)results from any general savings from a reduction in personnel that would result in a change in funding levels for programs, projects, or activities as approved by the Congress. (b)Subsection (a) shall not apply if the Committees on Appropriations of the House of Representatives and the Senate are notified at least 30 days in advance of such reprogramming. (c)Up to 5 percent of any appropriation made available for the current fiscal year for the Department of Homeland Security by this Act or provided by previous appropriations Acts may be transferred between such appropriations if the Committees on Appropriations of the House of Representatives and the Senate are notified at least 30 days in advance of such transfer, but no such appropriation, except as otherwise specifically provided, shall be increased by more than 10 percent by such t",
+              "fullTextLength": 3089,
+              "dollars": [
+                {
+                  "raw": "$5,000,000",
+                  "value": 5000000
+                },
+                {
+                  "raw": "$20,000,000",
+                  "value": 20000000
+                }
+              ],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds provided by this Act, provided by previous appropriations Acts to the components in or transferred to the Department of Homeland Security that remain available for obligation or expenditure in fiscal year 2026, or provided from any accounts in the Treasury of the United States derived by the collection of fees available to the components funded by this Act, shall be available for obligation or expenditure through a reprogramming of funds that—(1)creates or eliminates a program, project, or activity, or increases funds for any program, project, or activity for which funds have been denied or restricted by the Congress; (2)contracts out any function or activity presently performed by Federal employees or any new function or activity proposed to be performed by Federal employees in the President’s budget proposal for fiscal year 2026 for the Department of Homeland Security; (3)augments funding for existing programs, projects, or activities in excess of $5,000,000 or 10 percent, whichever is less; (4)reduces funding for any program, project, or activity, or numbers of personnel, by 10 percent or more; or (5)results from any general savings from a reduction in personnel that would result in a change in funding levels for programs, projects, or activities as approved by the Congress."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Subsection (a) shall not apply if the Committees on Appropriations of the House of Representatives and the Senate are notified at least 30 days in advance of such reprogramming."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)Up to 5 percent of any appropriation made available for the current fiscal year for the Department of Homeland Security by this Act or provided by previous appropriations Acts may be transferred between such appropriations if the Committees on Appropriations of the House of Representatives and the Senate are notified at least 30 days in advance of such transfer, but no such appropriation, except as otherwise specifically provided, shall be increased by more than 10 percent by such transfer."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d)Notwithstanding subsections (a), (b), and (c), no funds shall be reprogrammed within or transferred between appropriations—(1)based upon an initial notification provided after June 15, except in extraordinary circumstances that imminently threaten the safety of human life or the protection of property; (2)to increase or decrease funding for grant programs; or (3)to create a program, project, or activity pursuant to subsection (a)(1), including any new function or requirement within any program, project, or activity, not approved by Congress in the consideration of the enactment of this Act."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(e)The notification thresholds and procedures set forth in subsections (a), (b), (c), and (d) shall apply to any use of deobligated balances of funds provided in previous Department of Homeland Security Appropriations Acts that remain available for obligation in the current year."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(f)Notwithstanding subsection (c), the Secretary of Homeland Security may transfer to the fund established by, up to $20,000,000 from appropriations available to the Department of Homeland Security:"
+                }
+              ]
+            },
+            {
+              "num": "504",
+              "header": "",
+              "text": "Sec. 504.(a)Section 504 of the Department of Homeland Security Appropriations Act, 2017 (), related to the operations of a working capital fund, shall apply with respect to funds made available in this Act in the same manner as such section applied to funds made available in that Act. (b)Funds from such working capital fund may be obligated and expended in anticipation of reimbursements from components of the Department of Homeland Security.",
+              "fullTextLength": 445,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Section 504 of the Department of Homeland Security Appropriations Act, 2017 (), related to the operations of a working capital fund, shall apply with respect to funds made available in this Act in the same manner as such section applied to funds made available in that Act."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Funds from such working capital fund may be obligated and expended in anticipation of reimbursements from components of the Department of Homeland Security."
+                }
+              ]
+            },
+            {
+              "num": "505",
+              "header": "",
+              "text": "Sec. 505.(a)Except as otherwise specifically provided by law, not to exceed 50 percent of unobligated balances remaining available at the end of fiscal year 2026, as recorded in the financial records at the time of a reprogramming notification, but not later than June 15, 2027, from appropriations for “Operations and Support” for fiscal year 2026 in this Act shall remain available through September 30, 2027, in the account and for the purposes for which the appropriations were provided. (b)Prior to the obligation of such funds, a notification shall be submitted to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 503 of this Act.",
+              "fullTextLength": 694,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Except as otherwise specifically provided by law, not to exceed 50 percent of unobligated balances remaining available at the end of fiscal year 2026, as recorded in the financial records at the time of a reprogramming notification, but not later than June 15, 2027, from appropriations for “Operations and Support” for fiscal year 2026 in this Act shall remain available through September 30, 2027, in the account and for the purposes for which the appropriations were provided."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Prior to the obligation of such funds, a notification shall be submitted to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 503 of this Act."
+                }
+              ]
+            },
+            {
+              "num": "506",
+              "header": "",
+              "text": "Sec. 506.(a)Funds made available by this Act for intelligence activities are deemed to be specifically authorized by the Congress for purposes of section 504 of the National Security Act of 1947 () during fiscal year 2026 until the enactment of an Act authorizing intelligence activities for fiscal year 2026. (b)Amounts described in subsection (a) made available for “Intelligence, Analysis, and Situational Awareness—Operations and Support” that exceed the amounts in such authorization for such account shall be transferred to and merged with amounts made available under the heading “”. (c)Prior to the obligation of any funds transferred under subsection (b), the Undersecretary for Management shall brief the Committees on Appropriations of the House of Representatives and the Senate on a plan for the use of such funds.",
+              "fullTextLength": 827,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Funds made available by this Act for intelligence activities are deemed to be specifically authorized by the Congress for purposes of section 504 of the National Security Act of 1947 () during fiscal year 2026 until the enactment of an Act authorizing intelligence activities for fiscal year 2026."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Amounts described in subsection (a) made available for “Intelligence, Analysis, and Situational Awareness—Operations and Support” that exceed the amounts in such authorization for such account shall be transferred to and merged with amounts made available under the heading “”."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)Prior to the obligation of any funds transferred under subsection (b), the Undersecretary for Management shall brief the Committees on Appropriations of the House of Representatives and the Senate on a plan for the use of such funds."
+                }
+              ]
+            },
+            {
+              "num": "507",
+              "header": "",
+              "text": "Sec. 507.(a)The Secretary of Homeland Security, or the designee of the Secretary, shall notify the Committees on Appropriations of the House of Representatives and the Senate at least three full business days in advance of—(1)making or awarding a grant allocation or grant in excess of $1,000,000 or a grant made from the Disaster Relief Fund in excess of $100,000; (2)making or awarding a contract, other transaction agreement, or task or delivery order on a multiple award contract, or to issue a letter of intent totaling in excess of $2,000,000; (3)awarding a task or delivery order requiring an obligation of funds in an amount greater than $5,000,000 from multi-year Department of Homeland Security funds; (4)making a sole-source grant award; or (5)announcing publicly the intention to make or award items under paragraph (1), (2), (3), or (4) including a contract covered by the Federal Acquisition Regulation. (b)If the Secretary of Homeland Security determines that compliance with this section would pose a substantial risk to human life, health, or safety, an award may be made without notification, and the Secretary shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than three full business days after such an award is made or letter issued. (c)A notification under this section—(1)may not involve funds that are not available for obligation; and (2)shall include the amount of the award; the fiscal year for which the funds for the award were appropriated; the type of contract; and the account from which the funds are being drawn.",
+              "fullTextLength": 1599,
+              "dollars": [
+                {
+                  "raw": "$1,000,000",
+                  "value": 1000000
+                },
+                {
+                  "raw": "$100,000",
+                  "value": 100000
+                },
+                {
+                  "raw": "$2,000,000",
+                  "value": 2000000
+                },
+                {
+                  "raw": "$5,000,000",
+                  "value": 5000000
+                }
+              ],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)The Secretary of Homeland Security, or the designee of the Secretary, shall notify the Committees on Appropriations of the House of Representatives and the Senate at least three full business days in advance of—(1)making or awarding a grant allocation or grant in excess of $1,000,000 or a grant made from the Disaster Relief Fund in excess of $100,000; (2)making or awarding a contract, other transaction agreement, or task or delivery order on a multiple award contract, or to issue a letter of intent totaling in excess of $2,000,000; (3)awarding a task or delivery order requiring an obligation of funds in an amount greater than $5,000,000 from multi-year Department of Homeland Security funds; (4)making a sole-source grant award; or (5)announcing publicly the intention to make or award items under paragraph (1), (2), (3), or (4) including a contract covered by the Federal Acquisition Regulation."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)If the Secretary of Homeland Security determines that compliance with this section would pose a substantial risk to human life, health, or safety, an award may be made without notification, and the Secretary shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than three full business days after such an award is made or letter issued."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)A notification under this section—(1)may not involve funds that are not available for obligation; and (2)shall include the amount of the award; the fiscal year for which the funds for the award were appropriated; the type of contract; and the account from which the funds are being drawn."
+                }
+              ]
+            },
+            {
+              "num": "508",
+              "header": "",
+              "text": "Sec. 508.Notwithstanding any other provision of law, no agency shall purchase, construct, or lease any additional facilities, except within or contiguous to existing locations, to be used for the purpose of conducting Federal law enforcement training without advance notification to the Committees on Appropriations of the House of Representatives and the Senate, except that the Federal Law Enforcement Training Centers is authorized to obtain the temporary use of additional facilities by lease, contract, or other agreement for training that cannot be accommodated in existing Centers’ facilities.",
+              "fullTextLength": 600,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "509",
+              "header": "",
+              "text": "Sec. 509.None of the funds appropriated or otherwise made available by this Act may be used for expenses for any construction, repair, alteration, or acquisition project for which a prospectus otherwise required under, has not been approved, except that necessary funds may be expended for each project for required expenses for the development of a proposed prospectus.",
+              "fullTextLength": 370,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "510",
+              "header": "",
+              "text": "Sec. 510.Sections 522 and 530 of the Department of Homeland Security Appropriations Act, 2008 (;and 2074) shall apply with respect to funds made available in this Act in the same manner as such sections applied to funds made available in that Act.",
+              "fullTextLength": 247,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "511",
+              "header": "",
+              "text": "Sec. 511.(a)None of the funds made available in this Act may be used in contravention of the applicable provisions of the Buy American Act. (b)For purposes of subsection (a), the term “” means.",
+              "fullTextLength": 193,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds made available in this Act may be used in contravention of the applicable provisions of the Buy American Act."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)For purposes of subsection (a), the term “” means."
+                }
+              ]
+            },
+            {
+              "num": "512",
+              "header": "",
+              "text": "Sec. 512.None of the funds made available in this Act may be used to amend the oath of allegiance required by section 337 of the Immigration and Nationality Act ().",
+              "fullTextLength": 164,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "513",
+              "header": "",
+              "text": "Sec. 513.(a)None of the funds provided or otherwise made available by this Act may be made available to carry out section 872 of the Homeland Security Act of 2002 () unless explicitly authorized by the Congress after the date of enactment of this Act. (b)Subsection (a) shall not apply to the use of the authorities provided by such section 872—(1)to allocate or reallocate the functions of the Assistant Secretary for the Countering Weapons of Mass Destruction Office to other offices and organizational units within the Department consistent with the “Countering Weapons of Mass Destruction” table in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act); or (2)to allocate or reallocate any other functions of the Countering Weapons of Mass Destruction Office to other offices and organizational units within the Department consistent with the “Countering Weapons of Mass Destruction” table in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act). (c)Notwithstanding subsection (a), the Secretary may transfer funds made available in prior appropriations Acts to the Countering Weapons of Mass Destruction Office between any appropriations available to the Department as necessary to carry out the purposes described in subsection (b).",
+              "fullTextLength": 1353,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds provided or otherwise made available by this Act may be made available to carry out section 872 of the Homeland Security Act of 2002 () unless explicitly authorized by the Congress after the date of enactment of this Act."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Subsection (a) shall not apply to the use of the authorities provided by such section 872—(1)to allocate or reallocate the functions of the Assistant Secretary for the Countering Weapons of Mass Destruction Office to other offices and organizational units within the Department consistent with the “Countering Weapons of Mass Destruction” table in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act); or (2)to allocate or reallocate any other functions of the Countering Weapons of Mass Destruction Office to other offices and organizational units within the Department consistent with the “Countering Weapons of Mass Destruction” table in the explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act)."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)Notwithstanding subsection (a), the Secretary may transfer funds made available in prior appropriations Acts to the Countering Weapons of Mass Destruction Office between any appropriations available to the Department as necessary to carry out the purposes described in subsection (b)."
+                }
+              ]
+            },
+            {
+              "num": "514",
+              "header": "",
+              "text": "Sec. 514.None of the funds made available in this Act may be used for planning, testing, piloting, or developing a national identification card.",
+              "fullTextLength": 144,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "515",
+              "header": "",
+              "text": "Sec. 515.Any official that is required by this Act to report or to certify to the Committees on Appropriations of the House of Representatives and the Senate may not delegate such authority to perform that act unless specifically authorized herein.",
+              "fullTextLength": 248,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "516",
+              "header": "",
+              "text": "Sec. 516.None of the funds made available in this Act may be used for first-class travel by the employees of agencies funded by this Act in contravention of sections 301–10.122 through 301–10.124 of.",
+              "fullTextLength": 199,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "517",
+              "header": "",
+              "text": "Sec. 517.None of the funds made available in this Act may be used to employ workers described in section 274A(h)(3) of the Immigration and Nationality Act ().",
+              "fullTextLength": 158,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "518",
+              "header": "",
+              "text": "Sec. 518.Notwithstanding any other provision of this Act, none of the funds appropriated or otherwise made available by this Act may be used to pay award or incentive fees for contractor performance that has been judged to be below satisfactory performance or performance that does not meet the basic requirements of a contract.",
+              "fullTextLength": 328,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "519",
+              "header": "",
+              "text": "Sec. 519.(a)None of the funds made available in this Act may be used to maintain or establish a computer network unless such network blocks the viewing, downloading, and exchanging of pornography. (b)Nothing in subsection (a) shall limit the use of funds necessary for any Federal, State, tribal, territorial, or local law enforcement agency or any other entity carrying out criminal investigations, prosecution, or adjudication activities.",
+              "fullTextLength": 440,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds made available in this Act may be used to maintain or establish a computer network unless such network blocks the viewing, downloading, and exchanging of pornography."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Nothing in subsection (a) shall limit the use of funds necessary for any Federal, State, tribal, territorial, or local law enforcement agency or any other entity carrying out criminal investigations, prosecution, or adjudication activities."
+                }
+              ]
+            },
+            {
+              "num": "520",
+              "header": "",
+              "text": "Sec. 520.None of the funds made available in this Act may be used by a Federal law enforcement officer to facilitate the transfer of an operable firearm to an individual if the Federal law enforcement officer knows or suspects that the individual is an agent of a drug cartel unless law enforcement personnel of the United States continuously monitor or control the firearm at all times.",
+              "fullTextLength": 387,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "521",
+              "header": "",
+              "text": "Sec. 521.(a)None of the funds made available in this Act may be used to pay for the travel to or attendance of more than 50 employees of a single component of the Department of Homeland Security, who are stationed in the United States, at a single international conference unless the Secretary of Homeland Security, or a designee, determines that such attendance is in the national interest and notifies the Committees on Appropriations of the House of Representatives and the Senate within at least 10 days of that determination and the basis for that determination. (b)For purposes of this section the term “” shall mean a conference occurring outside of the United States attended by representatives of the United States Government and of foreign governments, international organizations, or nongovernmental organizations. (c)The total cost to the Department of Homeland Security of any such conference shall not exceed $500,000. (d)Employees who attend a conference virtually without travel away from their permanent duty station within the United States shall not be counted for purposes of this section, and the prohibition contained in this section shall not apply to payments for the costs of attendance for such employees.",
+              "fullTextLength": 1231,
+              "dollars": [
+                {
+                  "raw": "$500,000",
+                  "value": 500000
+                }
+              ],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds made available in this Act may be used to pay for the travel to or attendance of more than 50 employees of a single component of the Department of Homeland Security, who are stationed in the United States, at a single international conference unless the Secretary of Homeland Security, or a designee, determines that such attendance is in the national interest and notifies the Committees on Appropriations of the House of Representatives and the Senate within at least 10 days of that determination and the basis for that determination."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)For purposes of this section the term “” shall mean a conference occurring outside of the United States attended by representatives of the United States Government and of foreign governments, international organizations, or nongovernmental organizations."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)The total cost to the Department of Homeland Security of any such conference shall not exceed $500,000."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d)Employees who attend a conference virtually without travel away from their permanent duty station within the United States shall not be counted for purposes of this section, and the prohibition contained in this section shall not apply to payments for the costs of attendance for such employees."
+                }
+              ]
+            },
+            {
+              "num": "522",
+              "header": "",
+              "text": "Sec. 522.None of the funds made available in this Act may be used to reimburse any Federal department or agency for its participation in a National Special Security Event.",
+              "fullTextLength": 171,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "523",
+              "header": "",
+              "text": "Sec. 523.(a)None of the funds made available to the Department of Homeland Security by this or any other Act may be obligated for the implementation of any structural pay reform or the introduction of any new position classification that will affect more than 100 full-time positions or costs more than $5,000,000 in a single year before the end of the 30-day period beginning on the date on which the Secretary of Homeland Security submits to Congress a notification that includes—(1)the number of full-time positions affected by such change; (2)funding required for such change for the current fiscal year and through the Future Years Homeland Security Program; (3)justification for such change; and (4)for a structural pay reform, an analysis of compensation alternatives to such change that were considered by the Department. (b)Subsection (a) shall not apply to such change if—(1)it was proposed in the President’s budget proposal for the fiscal year funded by this Act; and (2)funds for such change have not been explicitly denied or restricted in this Act.",
+              "fullTextLength": 1063,
+              "dollars": [
+                {
+                  "raw": "$5,000,000",
+                  "value": 5000000
+                }
+              ],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds made available to the Department of Homeland Security by this or any other Act may be obligated for the implementation of any structural pay reform or the introduction of any new position classification that will affect more than 100 full-time positions or costs more than $5,000,000 in a single year before the end of the 30-day period beginning on the date on which the Secretary of Homeland Security submits to Congress a notification that includes—(1)the number of full-time positions affected by such change; (2)funding required for such change for the current fiscal year and through the Future Years Homeland Security Program; (3)justification for such change; and (4)for a structural pay reform, an analysis of compensation alternatives to such change that were considered by the Department."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Subsection (a) shall not apply to such change if—(1)it was proposed in the President’s budget proposal for the fiscal year funded by this Act; and (2)funds for such change have not been explicitly denied or restricted in this Act."
+                }
+              ]
+            },
+            {
+              "num": "524",
+              "header": "",
+              "text": "Sec. 524.(a)Any agency receiving funds made available in this Act shall, subject to subsections (b) and (c), post on the public website of that agency any report required to be submitted by the Committees on Appropriations of the House of Representatives and the Senate in this Act, upon the determination by the head of the agency that it shall serve the national interest. (b)Subsection (a) shall not apply to a report if—(1)the public posting of the report compromises homeland or national security; or (2)the report contains proprietary information. (c)The head of the agency posting such report shall do so only after such report has been made available to the Committees on Appropriations of the House of Representatives and the Senate for not less than 45 days except as otherwise specified in law. (d)If the requirements of this section are not met, the reprogramming and transfer authority provided in section 503 of this Act shall be suspended until the requirements of subsection (a) are met.",
+              "fullTextLength": 1003,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Any agency receiving funds made available in this Act shall, subject to subsections (b) and (c), post on the public website of that agency any report required to be submitted by the Committees on Appropriations of the House of Representatives and the Senate in this Act, upon the determination by the head of the agency that it shall serve the national interest."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Subsection (a) shall not apply to a report if—(1)the public posting of the report compromises homeland or national security; or (2)the report contains proprietary information."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)The head of the agency posting such report shall do so only after such report has been made available to the Committees on Appropriations of the House of Representatives and the Senate for not less than 45 days except as otherwise specified in law."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d)If the requirements of this section are not met, the reprogramming and transfer authority provided in section 503 of this Act shall be suspended until the requirements of subsection (a) are met."
+                }
+              ]
+            },
+            {
+              "num": "525",
+              "header": "",
+              "text": "Sec. 525.(a)Funding provided in this Act for “Operations and Support” may be used for minor procurement, construction, and improvements. (b)For purposes of subsection (a), “minor” refers to end items with a unit cost of $250,000 or less for personal property, and $4,000,000 or less for real property.",
+              "fullTextLength": 301,
+              "dollars": [
+                {
+                  "raw": "$250,000",
+                  "value": 250000
+                },
+                {
+                  "raw": "$4,000,000",
+                  "value": 4000000
+                }
+              ],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Funding provided in this Act for “Operations and Support” may be used for minor procurement, construction, and improvements."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)For purposes of subsection (a), “minor” refers to end items with a unit cost of $250,000 or less for personal property, and $4,000,000 or less for real property."
+                }
+              ]
+            },
+            {
+              "num": "526",
+              "header": "",
+              "text": "Sec. 526.The authority provided by section 532 of the Department of Homeland Security Appropriations Act, 2018 () regarding primary and secondary schooling of dependents shall continue in effect during fiscal year 2026.",
+              "fullTextLength": 219,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "527",
+              "header": "",
+              "text": "Sec. 527.(a)Except as provided in subsection (b), none of the funds made available in this Act may be used to place restraints on a woman in the custody of the Department of Homeland Security (including during transport, in a detention facility, or at an outside medical facility) who is pregnant or in post-delivery recuperation. (b)Subsection (a) shall not apply with respect to a pregnant woman if—(1)an appropriate official of the Department of Homeland Security makes an individualized determination that the woman—(A)is a serious flight risk, and such risk cannot be prevented by other means; or (B)poses an immediate and serious threat to harm herself or others that cannot be prevented by other means; or (2)a medical professional responsible for the care of the pregnant woman determines that the use of therapeutic restraints is appropriate for the medical safety of the woman. (c)If a pregnant woman is restrained pursuant to subsection (b), only the safest and least restrictive restraints, as determined by the appropriate medical professional treating the woman, may be used. In no case may restraints be used on a woman who is in active labor or delivery, and in no case may a pregnant woman be restrained in a face-down position with four-point restraints, on her back, or in a restraint belt that constricts the area of the pregnancy. A pregnant woman who is immobilized by restraints shall be positioned, to the maximum extent feasible, on her left side.",
+              "fullTextLength": 1472,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Except as provided in subsection (b), none of the funds made available in this Act may be used to place restraints on a woman in the custody of the Department of Homeland Security (including during transport, in a detention facility, or at an outside medical facility) who is pregnant or in post-delivery recuperation."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Subsection (a) shall not apply with respect to a pregnant woman if—(1)an appropriate official of the Department of Homeland Security makes an individualized determination that the woman—(A)is a serious flight risk, and such risk cannot be prevented by other means; or (B)poses an immediate and serious threat to harm herself or others that cannot be prevented by other means; or (2)a medical professional responsible for the care of the pregnant woman determines that the use of therapeutic restraints is appropriate for the medical safety of the woman."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)If a pregnant woman is restrained pursuant to subsection (b), only the safest and least restrictive restraints, as determined by the appropriate medical professional treating the woman, may be used. In no case may restraints be used on a woman who is in active labor or delivery, and in no case may a pregnant woman be restrained in a face-down position with four-point restraints, on her back, or in a restraint belt that constricts the area of the pregnancy. A pregnant woman who is immobilized by restraints shall be positioned, to the maximum extent feasible, on her left side."
+                }
+              ]
+            },
+            {
+              "num": "528",
+              "header": "",
+              "text": "Sec. 528.(a)None of the funds made available by this Act may be used to destroy any document, recording, or other record pertaining to any—(1)death of; (2)potential sexual assault or abuse perpetrated against; or (3)allegation of abuse, criminal activity, or disruption committed by an individual held in the custody of the Department of Homeland Security. (b)The records referred to in subsection (a) shall be made available, in accordance with applicable laws and regulations, and Federal rules governing disclosure in litigation, to an individual who has been charged with a crime, been placed into segregation, or otherwise punished as a result of an allegation described in paragraph (3), upon the request of such individual.",
+              "fullTextLength": 730,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds made available by this Act may be used to destroy any document, recording, or other record pertaining to any—(1)death of; (2)potential sexual assault or abuse perpetrated against; or (3)allegation of abuse, criminal activity, or disruption committed by an individual held in the custody of the Department of Homeland Security."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)The records referred to in subsection (a) shall be made available, in accordance with applicable laws and regulations, and Federal rules governing disclosure in litigation, to an individual who has been charged with a crime, been placed into segregation, or otherwise punished as a result of an allegation described in paragraph (3), upon the request of such individual."
+                }
+              ]
+            },
+            {
+              "num": "529",
+              "header": "",
+              "text": "Sec. 529., regarding a prohibition on funding for any position designated as a Principal Federal Official, shall apply with respect to any Federal funds in the same manner as such section applied to funds made available in that Act.",
+              "fullTextLength": 232,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "530",
+              "header": "",
+              "text": "Sec. 530.(a)Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to, the Under Secretary for Management of Homeland Security shall submit to the Committees on Appropriations of the House of Representatives and the Senate a report on the unfunded priorities, for the Department of Homeland Security and separately for each departmental component, for which discretionary funding would be classified as budget function 050. (b)Each report under this section shall specify, for each such unfunded priority—(1)a summary description, including the objectives to be achieved if such priority is funded (whether in whole or in part); (2)the description, including the objectives to be achieved if such priority is funded (whether in whole or in part); (3)account information, including the following (as applicable):(A)appropriation account; and (B)program, project, or activity name; and (4)the additional number of full-time or part-time positions to be funded as part of such priority. (c)In this section, the term “”, in the case of a fiscal year, means a requirement that—(1)is not funded in the budget referred to in subsection (a); (2)is necessary to fulfill a requirement associated with an operational or contingency plan for the Department; and (3)would have been recommended for funding through the budget referred to in subsection (a) if—(A)additional resources had been available for the budget to fund the requirement; (B)the requirement has emerged since the budget was formulated; or (C)the requirement is necessary to sustain prior-year investments.",
+              "fullTextLength": 1633,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to, the Under Secretary for Management of Homeland Security shall submit to the Committees on Appropriations of the House of Representatives and the Senate a report on the unfunded priorities, for the Department of Homeland Security and separately for each departmental component, for which discretionary funding would be classified as budget function 050."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Each report under this section shall specify, for each such unfunded priority—(1)a summary description, including the objectives to be achieved if such priority is funded (whether in whole or in part); (2)the description, including the objectives to be achieved if such priority is funded (whether in whole or in part); (3)account information, including the following (as applicable):(A)appropriation account; and (B)program, project, or activity name; and (4)the additional number of full-time or part-time positions to be funded as part of such priority."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)In this section, the term “”, in the case of a fiscal year, means a requirement that—(1)is not funded in the budget referred to in subsection (a); (2)is necessary to fulfill a requirement associated with an operational or contingency plan for the Department; and (3)would have been recommended for funding through the budget referred to in subsection (a) if—(A)additional resources had been available for the budget to fund the requirement; (B)the requirement has emerged since the budget was formulated; or (C)the requirement is necessary to sustain prior-year investments."
+                }
+              ]
+            },
+            {
+              "num": "531",
+              "header": "",
+              "text": "Sec. 531.(a)Not later than 10 days after a determination is made by the President to evaluate and initiate protection under any authority for a former or retired Government official or employee, or for an individual who, during the duration of the directed protection, will become a former or retired Government official or employee (referred to in this section as a “covered individual”), the Secretary of Homeland Security shall submit a notification to congressional leadership and the Committees on Appropriations of the House of Representatives and the Senate, the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on Homeland Security of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Reform of the House of Representatives (referred to in this section as the “appropriate congressional committees”). (b)Such notification may be submitted in classified form, if necessary, and in consultation with the Director of National Intelligence or the Director of the Federal Bureau of Investigation, as appropriate, and shall include the threat assessment, scope of the protection, and the anticipated cost and duration of such protection. (c)Not later than 15 days before extending, or 30 days before terminating, protection for a covered individual, the Secretary of Homeland Security shall submit a notification regarding the extension or termination and any change to the threat assessment to the congressional leadership and the appropriate congressional committees. (d)Not later than 45 days after the date of enactment of this Act, and quarterly thereafter, the Secretary shall submit a report to the congressional leadership and the appropriate congressional committees, which may be submitted in classified form, if necessary, detailing each covered individual, and the scope and associated cost of protection.",
+              "fullTextLength": 1950,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Not later than 10 days after a determination is made by the President to evaluate and initiate protection under any authority for a former or retired Government official or employee, or for an individual who, during the duration of the directed protection, will become a former or retired Government official or employee (referred to in this section as a “covered individual”), the Secretary of Homeland Security shall submit a notification to congressional leadership and the Committees on Appropriations of the House of Representatives and the Senate, the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on Homeland Security of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Reform of the House of Representatives (referred to in this section as the “appropriate congressional committees”)."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Such notification may be submitted in classified form, if necessary, and in consultation with the Director of National Intelligence or the Director of the Federal Bureau of Investigation, as appropriate, and shall include the threat assessment, scope of the protection, and the anticipated cost and duration of such protection."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)Not later than 15 days before extending, or 30 days before terminating, protection for a covered individual, the Secretary of Homeland Security shall submit a notification regarding the extension or termination and any change to the threat assessment to the congressional leadership and the appropriate congressional committees."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d)Not later than 45 days after the date of enactment of this Act, and quarterly thereafter, the Secretary shall submit a report to the congressional leadership and the appropriate congressional committees, which may be submitted in classified form, if necessary, detailing each covered individual, and the scope and associated cost of protection."
+                }
+              ]
+            },
+            {
+              "num": "532",
+              "header": "",
+              "text": "Sec. 532.(a)None of the funds provided to the Department of Homeland Security in this or any prior Act may be used by an agency to submit an initial project proposal to the Technology Modernization Fund (as authorized by section 1078 of subtitle G of title X of the National Defense Authorization Act for Fiscal Year 2018 ()) unless, concurrent with the submission of an initial project proposal to the Technology Modernization Board, the head of the agency—(1)notifies the Committees on Appropriations of the House of Representatives and the Senate of the proposed submission of the project proposal; (2)submits to the Committees on Appropriations a copy of the project proposal; and (3)provides a detailed analysis of how the proposed project funding would supplement or supplant funding requested as part of the Department’s most recent budget submission. (b)None of the funds provided to the Department of Homeland Security by the Technology Modernization Fund shall be available for obligation until 15 days after a report on such funds has been transmitted to the Committees on Appropriations of the House of Representatives and the Senate. (c)The report described in subsection (b) shall include—(1)the full project proposal submitted to and approved by the Fund’s Technology Modernization Board; (2)the finalized interagency agreement between the Department and the Fund including the project’s deliverables and repayment terms, as applicable; (3)a detailed analysis of how the project will supplement or supplant existing funding available to the Department for similar activities; (4)a plan for how the Department will repay the Fund, including specific planned funding sources, as applicable; and (5)other information as determined by the Secretary.",
+              "fullTextLength": 1760,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds provided to the Department of Homeland Security in this or any prior Act may be used by an agency to submit an initial project proposal to the Technology Modernization Fund (as authorized by section 1078 of subtitle G of title X of the National Defense Authorization Act for Fiscal Year 2018 ()) unless, concurrent with the submission of an initial project proposal to the Technology Modernization Board, the head of the agency—(1)notifies the Committees on Appropriations of the House of Representatives and the Senate of the proposed submission of the project proposal; (2)submits to the Committees on Appropriations a copy of the project proposal; and (3)provides a detailed analysis of how the proposed project funding would supplement or supplant funding requested as part of the Department’s most recent budget submission."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)None of the funds provided to the Department of Homeland Security by the Technology Modernization Fund shall be available for obligation until 15 days after a report on such funds has been transmitted to the Committees on Appropriations of the House of Representatives and the Senate."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)The report described in subsection (b) shall include—(1)the full project proposal submitted to and approved by the Fund’s Technology Modernization Board; (2)the finalized interagency agreement between the Department and the Fund including the project’s deliverables and repayment terms, as applicable; (3)a detailed analysis of how the project will supplement or supplant existing funding available to the Department for similar activities; (4)a plan for how the Department will repay the Fund, including specific planned funding sources, as applicable; and (5)other information as determined by the Secretary."
+                }
+              ]
+            },
+            {
+              "num": "533",
+              "header": "",
+              "text": "Sec. 533.Within 60 days of any budget submission for the Department of Homeland Security for fiscal year 2027 that assumes revenues or proposes a reduction from the previous year based on user fees proposals that have not been enacted into law prior to the submission of the budget, the Secretary of Homeland Security shall provide the Committees on Appropriations of the House of Representatives and the Senate specific reductions in proposed discretionary budget authority commensurate with the revenues assumed in such proposals in the event that they are not enacted prior to October 1, 2026.",
+              "fullTextLength": 596,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "534",
+              "header": "",
+              "text": "Sec. 534.None of the funds made available by this Act may be obligated or expended to implement the Arms Trade Treaty until the Senate approves a resolution of ratification for the Treaty.",
+              "fullTextLength": 188,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "535",
+              "header": "",
+              "text": "Sec. 535.No Federal funds made available to the Department of Homeland Security may be used to enter into a procurement contract, memorandum of understanding, or cooperative agreement with, or make a grant to, or provide a loan or guarantee to, any entity identified under section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 () or any subsidiary of such entity.",
+              "fullTextLength": 414,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "536",
+              "header": "",
+              "text": "Sec. 536.None of the funds appropriated or otherwise made available in this or any other Act may be used to transfer, release, or assist in the transfer or release to or within the United States, its territories, or possessions Khalid Sheikh Mohammed or any other detainee who—(1)is not a United States citizen or a member of the Armed Forces of the United States; and (2)is or was held on or after June 24, 2009, at the United States Naval Station, Guantanamo Bay, Cuba, by the Department of Defense.",
+              "fullTextLength": 501,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "537",
+              "header": "",
+              "text": "Sec. 537.(a)The Secretary of Homeland Security shall, on a monthly basis beginning immediately after the date of enactment of this Act, develop estimates of the number of migrants anticipated to arrive at the southwest border of the United States. (b)The Secretary shall ensure that, at a minimum, the estimates developed pursuant to subsection (a)—(1)cover the current fiscal year and the following fiscal year; (2)include a breakout by demographic, to include single adults, family units, and unaccompanied children; (3)undergo an independent validation and verification review; (4)are used to inform policy planning and budgeting processes within the Department of Homeland Security; and (5)are included in the budget materials submitted to Congress for each fiscal year beginning after the date of enactment of this Act and in support of—(A)the President’s annual budget request pursuant to; (B)any supplemental funding request submitted to Congress; (C)any reprogramming and transfer notification pursuant to section 503 of this Act; and (D)such budget materials shall include—(i)the most recent monthly estimates developed pursuant to subsection (a); (ii)a description and quantification of the estimates used to justify funding requests for Department programs related to border security, immigration enforcement, and immigration services; (iii)a description and quantification of the anticipated workload and requirements resulting from such estimates; and (iv)a confirmation as to whether the budget requests for impacted agencies were developed using the same estimates. (c)The Secretary shall share the monthly estimates developed pursuant to subsection (a) with the Secretary of Health and Human Services, the Attorney General, the Secretary of State, and the Committees on Appropriations of the House of Representatives and the Senate. (d)If the monthly estimates described in subsection (b) are not provided for the purposes described, the reprogramming and transfer authority provided ",
+              "fullTextLength": 2184,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)The Secretary of Homeland Security shall, on a monthly basis beginning immediately after the date of enactment of this Act, develop estimates of the number of migrants anticipated to arrive at the southwest border of the United States."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)The Secretary shall ensure that, at a minimum, the estimates developed pursuant to subsection (a)—(1)cover the current fiscal year and the following fiscal year; (2)include a breakout by demographic, to include single adults, family units, and unaccompanied children; (3)undergo an independent validation and verification review; (4)are used to inform policy planning and budgeting processes within the Department of Homeland Security; and (5)are included in the budget materials submitted to Congress for each fiscal year beginning after the date of enactment of this Act and in support of—(A)the President’s annual budget request pursuant to; (B)any supplemental funding request submitted to Congress; (C)any reprogramming and transfer notification pursuant to section 503 of this Act; and (D)such budget materials shall include—(i)the most recent monthly estimates developed pursuant to subsection (a); (ii)a description and quantification of the estimates used to justify funding requests for Department programs related to border security, immigration enforcement, and immigration services; (iii)a description and quantification of the anticipated workload and requirements resulting from such estimates; and (iv)a confirmation as to whether the budget requests for impacted agencies were developed using the same estimates."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)The Secretary shall share the monthly estimates developed pursuant to subsection (a) with the Secretary of Health and Human Services, the Attorney General, the Secretary of State, and the Committees on Appropriations of the House of Representatives and the Senate."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d)If the monthly estimates described in subsection (b) are not provided for the purposes described, the reprogramming and transfer authority provided in section 503 of this Act shall be suspended until such time as the required estimates are provided to the Committees on Appropriations of the House of Representatives and the Senate."
+                }
+              ]
+            },
+            {
+              "num": "538",
+              "header": "",
+              "text": "Sec. 538.(a)The Secretary of Homeland Security shall, on a monthly basis beginning immediately after the date of enactment of this Act, develop estimates of the number of individuals anticipated to be detained in and removed from the United States. (b)The Secretary shall ensure that, at a minimum, the estimates developed pursuant to subsection (a)—(1)cover the current fiscal year and the following fiscal year; (2)include a breakout by demographics, to include single adults and family units; (3)undergo an independent validation and verification review; (4)are used to inform policy planning and budgeting processes within the Department of Homeland Security; and (5)are included in the budget materials submitted to Congress for each fiscal year beginning after the date of enactment of this Act and in support of—(A)the President’s annual budget request pursuant to; (B)any supplemental funding request submitted to Congress; (C)any reprogramming and transfer notification pursuant to section 503 of this Act; and (D)such budget materials shall include—(i)the most recent monthly estimates developed pursuant to subsection (a); (ii)a description and quantification of the estimates used to justify funding requests for Department programs related to border security, immigration enforcement, and immigration services; (iii)a description and quantification of the anticipated workload and requirements resulting from such estimates; and (iv)a confirmation as to whether the budget requests for impacted agencies were developed using the same estimates. (c)The Secretary shall share the monthly estimates developed pursuant to subsection (a) with the Attorney General, the Secretary of State, and the Committees on Appropriations of the House of Representatives and the Senate. (d)If the monthly estimates described in subsection (b) are not provided for the purposes described, the reprogramming and transfer authority provided in section 503 of this Act shall be suspended until such time as th",
+              "fullTextLength": 2117,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)The Secretary of Homeland Security shall, on a monthly basis beginning immediately after the date of enactment of this Act, develop estimates of the number of individuals anticipated to be detained in and removed from the United States."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)The Secretary shall ensure that, at a minimum, the estimates developed pursuant to subsection (a)—(1)cover the current fiscal year and the following fiscal year; (2)include a breakout by demographics, to include single adults and family units; (3)undergo an independent validation and verification review; (4)are used to inform policy planning and budgeting processes within the Department of Homeland Security; and (5)are included in the budget materials submitted to Congress for each fiscal year beginning after the date of enactment of this Act and in support of—(A)the President’s annual budget request pursuant to; (B)any supplemental funding request submitted to Congress; (C)any reprogramming and transfer notification pursuant to section 503 of this Act; and (D)such budget materials shall include—(i)the most recent monthly estimates developed pursuant to subsection (a); (ii)a description and quantification of the estimates used to justify funding requests for Department programs related to border security, immigration enforcement, and immigration services; (iii)a description and quantification of the anticipated workload and requirements resulting from such estimates; and (iv)a confirmation as to whether the budget requests for impacted agencies were developed using the same estimates."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)The Secretary shall share the monthly estimates developed pursuant to subsection (a) with the Attorney General, the Secretary of State, and the Committees on Appropriations of the House of Representatives and the Senate."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(d)If the monthly estimates described in subsection (b) are not provided for the purposes described, the reprogramming and transfer authority provided in section 503 of this Act shall be suspended until such time as the required estimates are provided to the Committees on Appropriations of the House of Representatives and the Senate."
+                }
+              ]
+            },
+            {
+              "num": "539",
+              "header": "",
+              "text": "Sec. 539.(a)Prior to the Secretary of Homeland Security requesting assistance from the Department of Defense for border security operations, the Secretary shall ensure that an alternatives analysis and cost-benefit analysis is conducted before such request is made, which shall include an examination of obtaining such support through other means. (b)Not later than 30 days after the date on which a request for assistance is made, the Secretary of Homeland Security shall submit to the Committees on Appropriations of the House of Representatives and the Senate a report detailing the types of support requested, the alternatives analysis and cost-benefit analysis described in subsection (a), and the operational impact to Department of Homeland Security operations of any Department of Defense border security support requested by the Secretary. (c)Not later than 30 days after the date on which a request made for assistance is granted and quarterly thereafter through the duration of such assistance, the Secretary of Homeland Security shall submit to the Committees on Appropriations of the House of Representatives and the Senate, a report detailing the assistance provided and the operational impacts to border security operations.",
+              "fullTextLength": 1239,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)Prior to the Secretary of Homeland Security requesting assistance from the Department of Defense for border security operations, the Secretary shall ensure that an alternatives analysis and cost-benefit analysis is conducted before such request is made, which shall include an examination of obtaining such support through other means."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Not later than 30 days after the date on which a request for assistance is made, the Secretary of Homeland Security shall submit to the Committees on Appropriations of the House of Representatives and the Senate a report detailing the types of support requested, the alternatives analysis and cost-benefit analysis described in subsection (a), and the operational impact to Department of Homeland Security operations of any Department of Defense border security support requested by the Secretary."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)Not later than 30 days after the date on which a request made for assistance is granted and quarterly thereafter through the duration of such assistance, the Secretary of Homeland Security shall submit to the Committees on Appropriations of the House of Representatives and the Senate, a report detailing the assistance provided and the operational impacts to border security operations."
+                }
+              ]
+            },
+            {
+              "num": "540",
+              "header": "",
+              "text": "Sec. 540.Funds made available in this Act or any other Act for Operations and Support may be used for the necessary expenses of providing an employee emergency back-up care program.",
+              "fullTextLength": 181,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "541",
+              "header": "",
+              "text": "Sec. 541.(a)If the reporting requirement set forth in paragraph (2) under the heading “” in the Department of Homeland Security Appropriations Act, 2015 (), as applied in this fiscal year by section 306 of this Act, is not submitted to the Committees on Appropriations of the House of Representatives and the Senate and published on the Agency’s website not later than the fifth business day of the applicable month, the amount made available for “Office of the Secretary and Executive Management—Operations and Support—Management and Oversight” shall be reduced by $100,000 for each day such report is not submitted and published on the Agency’s website. (b)During any period in which the total number of requests for reimbursement for a covered expense for individual assistance or public assistance related to emergency () or major disaster () declarations under the Robert T. Stafford Disaster Relief and Emergency Assistance Act () that the Department of Homeland Security has been considering under final review for greater than 60 days exceeds 500, the amount made available for “Office of the Secretary and Executive Management—Operations and Support—Management and Oversight” shall be reduced by $100,000 for each day during such period on which the cumulative total of requests over 60 days in final review exceeds 500. (c)Subsection (b) shall not apply if the balance of funding for the Disaster Relief Fund is sufficient only for the purpose of obligating funds for activities determined to be lifesaving or life-sustaining.",
+              "fullTextLength": 1536,
+              "dollars": [
+                {
+                  "raw": "$100,000",
+                  "value": 100000
+                },
+                {
+                  "raw": "$100,000",
+                  "value": 100000
+                }
+              ],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)If the reporting requirement set forth in paragraph (2) under the heading “” in the Department of Homeland Security Appropriations Act, 2015 (), as applied in this fiscal year by section 306 of this Act, is not submitted to the Committees on Appropriations of the House of Representatives and the Senate and published on the Agency’s website not later than the fifth business day of the applicable month, the amount made available for “Office of the Secretary and Executive Management—Operations and Support—Management and Oversight” shall be reduced by $100,000 for each day such report is not submitted and published on the Agency’s website."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)During any period in which the total number of requests for reimbursement for a covered expense for individual assistance or public assistance related to emergency () or major disaster () declarations under the Robert T. Stafford Disaster Relief and Emergency Assistance Act () that the Department of Homeland Security has been considering under final review for greater than 60 days exceeds 500, the amount made available for “Office of the Secretary and Executive Management—Operations and Support—Management and Oversight” shall be reduced by $100,000 for each day during such period on which the cumulative total of requests over 60 days in final review exceeds 500."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)Subsection (b) shall not apply if the balance of funding for the Disaster Relief Fund is sufficient only for the purpose of obligating funds for activities determined to be lifesaving or life-sustaining."
+                }
+              ]
+            },
+            {
+              "num": "542",
+              "header": "",
+              "text": "Sec. 542.Section 16005(c) of title VI of division B of the Coronavirus Aid, Relief, and Economic Security Act () shall be applied as if the language read as follows: “Subsection (a) shall apply until September 30, 2026.”.",
+              "fullTextLength": 221,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "543",
+              "header": "",
+              "text": "Sec. 543.The levels for appropriations accounts specified for classified programs in this Act shall conform to the direction included in the classified annex accompanying this Act and shall be implemented in a manner consistent with section 545.",
+              "fullTextLength": 245,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "544",
+              "header": "",
+              "text": "Sec. 544.Upon a determination by the Director of National Intelligence that such action is necessary and in the national interest, the Director may, with the approval of the Secretary of Homeland Security and the Director of the Office of Management and Budget, transfer amounts for the National Intelligence Program consistent with the percentage caps specified in section 503(c):",
+              "fullTextLength": 381,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "545",
+              "header": "",
+              "text": "Sec. 545.Within seven days of the date of enactment of this Act, and quarterly thereafter, the Department shall submit to the Committees on Appropriation of the House of Representatives and the Senate—(1)an obligation plan by program, project, or activity for each component receiving funds from; (2)estimated fee collections for each component collecting new or enhanced fees authorized by, delineated by collections that a component will retain and collections that a component will remit to other agencies or the Treasury; and (3)an obligation plan by program, project, or activity for fee collections identified in paragraph (2) as being retained by a component within the Department.",
+              "fullTextLength": 688,
+              "dollars": [],
+              "subsections": []
+            },
+            {
+              "num": "546",
+              "header": "",
+              "text": "Sec. 546.(a)None of the funds appropriated or otherwise made available to the Department of Homeland Security by this Act may be used to prevent any of the following persons from entering, for the purpose of conducting oversight, any facility operated by or for the Department of Homeland Security used to detain or otherwise house aliens, or to make any temporary modification at any such facility that in any way alters what is observed by a visiting Member of Congress or such designated employee, compared to what would be observed in the absence of such modification:(1)A Member of Congress. (2)An employee of the United States House of Representatives or the United States Senate designated by such a Member for the purposes of this section. (b)Nothing in this section may be construed to require a Member of Congress to provide prior notice of the intent to enter a facility described in subsection (a) for the purpose of conducting oversight. (c)With respect to individuals described in subsection (a)(2), the Department of Homeland Security may require that a request be made at least 24 hours in advance of an intent to enter a facility described in subsection (a).",
+              "fullTextLength": 1175,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a)None of the funds appropriated or otherwise made available to the Department of Homeland Security by this Act may be used to prevent any of the following persons from entering, for the purpose of conducting oversight, any facility operated by or for the Department of Homeland Security used to detain or otherwise house aliens, or to make any temporary modification at any such facility that in any way alters what is observed by a visiting Member of Congress or such designated employee, compared to what would be observed in the absence of such modification:(1)A Member of Congress. (2)An employee of the United States House of Representatives or the United States Senate designated by such a Member for the purposes of this section."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b)Nothing in this section may be construed to require a Member of Congress to provide prior notice of the intent to enter a facility described in subsection (a) for the purpose of conducting oversight."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c)With respect to individuals described in subsection (a)(2), the Department of Homeland Security may require that a request be made at least 24 hours in advance of an intent to enter a facility described in subsection (a)."
+                }
+              ]
+            },
+            {
+              "num": "547",
+              "header": "",
+              "text": "Sec. 547.In addition to amounts otherwise made available for such purposes, there is appropriated $30,000,000, for an additional amount for “The Judiciary—Supreme Court of the United States—Salaries and Expenses”, to remain available until September 30, 2028:",
+              "fullTextLength": 259,
+              "dollars": [
+                {
+                  "raw": "$30,000,000,",
+                  "value": 30000000
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "num": "548",
+              "header": "",
+              "text": "Sec. 548.There is appropriated $140,000,000 for an additional amount for “Department of Transportation—Federal Aviation Administration—Operations” for air traffic organization activities, to remain available until September 30, 2027:",
+              "fullTextLength": 233,
+              "dollars": [
+                {
+                  "raw": "$140,000,000",
+                  "value": 140000000
+                }
+              ],
+              "subsections": []
+            },
+            {
+              "num": "549",
+              "header": "",
+              "text": "Sec. 549.Notwithstanding section 503(c) of this Act, no amounts may be transferred to “U.S. Customs and Border Protection—Operations and Support” for Border Security Operations in the “Department of Homeland Security Appropriations Act, 2026” table of the explanatory statement regarding this Act, as defined in section 4 (in the matter preceding division A of this consolidated Act).",
+              "fullTextLength": 384,
+              "dollars": [],
+              "subsections": []
+            }
+          ],
+          "appropriations": [],
+          "totalDollars": [
+            {
+              "raw": "$5,000,000",
+              "value": 5000000
+            },
+            {
+              "raw": "$20,000,000",
+              "value": 20000000
+            },
+            {
+              "raw": "$1,000,000",
+              "value": 1000000
+            },
+            {
+              "raw": "$100,000",
+              "value": 100000
+            },
+            {
+              "raw": "$2,000,000",
+              "value": 2000000
+            },
+            {
+              "raw": "$5,000,000",
+              "value": 5000000
+            },
+            {
+              "raw": "$500,000",
+              "value": 500000
+            },
+            {
+              "raw": "$5,000,000",
+              "value": 5000000
+            },
+            {
+              "raw": "$250,000",
+              "value": 250000
+            },
+            {
+              "raw": "$4,000,000",
+              "value": 4000000
+            },
+            {
+              "raw": "$100,000",
+              "value": 100000
+            },
+            {
+              "raw": "$100,000",
+              "value": 100000
+            },
+            {
+              "raw": "$30,000,000,",
+              "value": 30000000
+            },
+            {
+              "raw": "$140,000,000",
+              "value": 140000000
+            }
+          ],
+          "textLength": 36484
+        }
+      ],
+      "directSections": [],
+      "totalDollars": [
+        {
+          "raw": "$316,295,000,",
+          "value": 316295000
+        },
+        {
+          "raw": "$22,050,000",
+          "value": 22050000
+        },
+        {
+          "raw": "$8,911,000,",
+          "value": 8911000
+        },
+        {
+          "raw": "$1,690,380,000,",
+          "value": 1690380000
+        },
+        {
+          "raw": "$58,106,000,",
+          "value": 58106000
+        },
+        {
+          "raw": "$340,819,000,",
+          "value": 340819000
+        },
+        {
+          "raw": "$121,274,000",
+          "value": 121274000
+        },
+        {
+          "raw": "$257,599,000,",
+          "value": 257599000
+        },
+        {
+          "raw": "$20,000,000",
+          "value": 20000000
+        },
+        {
+          "raw": "$12,814,000",
+          "value": 12814000
+        },
+        {
+          "raw": "$5,000,000",
+          "value": 5000000
+        },
+        {
+          "raw": "$20,000,000,",
+          "value": 20000000
+        },
+        {
+          "raw": "$11,083,012,000",
+          "value": 11083012000
+        },
+        {
+          "raw": "$3,274,000",
+          "value": 3274000
+        },
+        {
+          "raw": "$550,000,000",
+          "value": 550000000
+        },
+        {
+          "raw": "$222,886,000,",
+          "value": 222886000
+        },
+        {
+          "raw": "$10,635,434,000,",
+          "value": 10635434000
+        },
+        {
+          "raw": "$300,000,000",
+          "value": 300000000
+        },
+        {
+          "raw": "$330,230,000,",
+          "value": 330230000
+        },
+        {
+          "raw": "$24,000,000,",
+          "value": 24000000
+        },
+        {
+          "raw": "$700,000",
+          "value": 700000
+        },
+        {
+          "raw": "$31,000,000",
+          "value": 31000000
+        },
+        {
+          "raw": "$11,272,401,000,",
+          "value": 11272401000
+        },
+        {
+          "raw": "$530,000,000",
+          "value": 530000000
+        },
+        {
+          "raw": "$24,500,000",
+          "value": 24500000
+        },
+        {
+          "raw": "$20,000,000",
+          "value": 20000000
+        },
+        {
+          "raw": "$25,335,000",
+          "value": 25335000
+        },
+        {
+          "raw": "$400,000,000",
+          "value": 400000000
+        },
+        {
+          "raw": "$991,872,000,",
+          "value": 991872000
+        },
+        {
+          "raw": "$20,000,000",
+          "value": 20000000
+        },
+        {
+          "raw": "$6,763,000,",
+          "value": 6763000
+        },
+        {
+          "raw": "$500,000",
+          "value": 500000
+        },
+        {
+          "raw": "$1,249,000,000,",
+          "value": 1249000000
+        },
+        {
+          "raw": "$3,128,304,000,",
+          "value": 3128304000
+        },
+        {
+          "raw": "$96,299,000",
+          "value": 96299000
+        },
+        {
+          "raw": "$20,000,000",
+          "value": 20000000
+        },
+        {
+          "raw": "$6,000,000",
+          "value": 6000000
+        },
+        {
+          "raw": "$33,000,000",
+          "value": 33000000
+        },
+        {
+          "raw": "$118,517,000,",
+          "value": 118517000
+        },
+        {
+          "raw": "$96,167,000",
+          "value": 96167000
+        },
+        {
+          "raw": "$22,350,000",
+          "value": 22350000
+        },
+        {
+          "raw": "$3,250,000,",
+          "value": 3250000
+        },
+        {
+          "raw": "$98,000,000,",
+          "value": 98000000
+        },
+        {
+          "raw": "$15,000,000",
+          "value": 15000000
+        },
+        {
+          "raw": "$2,000,000,",
+          "value": 2000000
+        },
+        {
+          "raw": "$40,000,000",
+          "value": 40000000
+        },
+        {
+          "raw": "$24,000,000",
+          "value": 24000000
+        },
+        {
+          "raw": "$31,000,000,",
+          "value": 31000000
+        },
+        {
+          "raw": "$31,000,000,",
+          "value": 31000000
+        },
+        {
+          "raw": "$31,000,000",
+          "value": 31000000
+        },
+        {
+          "raw": "$2,218,634,000,",
+          "value": 2218634000
+        },
+        {
+          "raw": "$386,464,000,",
+          "value": 386464000
+        },
+        {
+          "raw": "$1,667,038,000",
+          "value": 1667038000
+        },
+        {
+          "raw": "$156,419,000,",
+          "value": 156419000
+        },
+        {
+          "raw": "$92,794,000",
+          "value": 92794000
+        },
+        {
+          "raw": "$63,625,000",
+          "value": 63625000
+        },
+        {
+          "raw": "$3,836,748,513,",
+          "value": 3836748513
+        },
+        {
+          "raw": "$494,000,000",
+          "value": 494000000
+        },
+        {
+          "raw": "$85,500,000",
+          "value": 85500000
+        },
+        {
+          "raw": "$14,250,000",
+          "value": 14250000
+        },
+        {
+          "raw": "$584,250,000",
+          "value": 584250000
+        },
+        {
+          "raw": "$300,000,000",
+          "value": 300000000
+        },
+        {
+          "raw": "$150,000,000",
+          "value": 150000000
+        },
+        {
+          "raw": "$150,000,000",
+          "value": 150000000
+        },
+        {
+          "raw": "$99,750,000",
+          "value": 99750000
+        },
+        {
+          "raw": "$9,500,000",
+          "value": 9500000
+        },
+        {
+          "raw": "$1,900,000",
+          "value": 1900000
+        },
+        {
+          "raw": "$95,000,000",
+          "value": 95000000
+        },
+        {
+          "raw": "$684,000,000,",
+          "value": 684000000
+        },
+        {
+          "raw": "$342,000,000",
+          "value": 342000000
+        },
+        {
+          "raw": "$342,000,000",
+          "value": 342000000
+        },
+        {
+          "raw": "$337,250,000",
+          "value": 337250000
+        },
+        {
+          "raw": "$297,113,000",
+          "value": 297113000
+        },
+        {
+          "raw": "$11,400,000",
+          "value": 11400000
+        },
+        {
+          "raw": "$11,400,000",
+          "value": 11400000
+        },
+        {
+          "raw": "$123,500,000",
+          "value": 123500000
+        },
+        {
+          "raw": "$48,000,000",
+          "value": 48000000
+        },
+        {
+          "raw": "$272,671,513",
+          "value": 272671513
+        },
+        {
+          "raw": "$82,957,854,",
+          "value": 82957854
+        },
+        {
+          "raw": "$189,713,659,",
+          "value": 189713659
+        },
+        {
+          "raw": "$478,414,000",
+          "value": 478414000
+        },
+        {
+          "raw": "$85,711,000",
+          "value": 85711000
+        },
+        {
+          "raw": "$17,100,000",
+          "value": 17100000
+        },
+        {
+          "raw": "$33,366,000",
+          "value": 33366000
+        },
+        {
+          "raw": "$72,140,000",
+          "value": 72140000
+        },
+        {
+          "raw": "$95,950,000",
+          "value": 95950000
+        },
+        {
+          "raw": "$15,200,000",
+          "value": 15200000
+        },
+        {
+          "raw": "$21,266,000",
+          "value": 21266000
+        },
+        {
+          "raw": "$83,657,000",
+          "value": 83657000
+        },
+        {
+          "raw": "$34,465,000",
+          "value": 34465000
+        },
+        {
+          "raw": "$19,559,000",
+          "value": 19559000
+        },
+        {
+          "raw": "$26,367,000,000,",
+          "value": 26367000000
+        },
+        {
+          "raw": "$226,000,000,",
+          "value": 226000000
+        },
+        {
+          "raw": "$16,302,000",
+          "value": 16302000
+        },
+        {
+          "raw": "$209,698,000",
+          "value": 209698000
+        },
+        {
+          "raw": "$230,669,000",
+          "value": 230669000
+        },
+        {
+          "raw": "$1,505,000,000",
+          "value": 1505000000
+        },
+        {
+          "raw": "$175,000,000,",
+          "value": 175000000
+        },
+        {
+          "raw": "$4,000,000",
+          "value": 4000000
+        },
+        {
+          "raw": "$100,000",
+          "value": 100000
+        },
+        {
+          "raw": "$1,000,000",
+          "value": 1000000
+        },
+        {
+          "raw": "$122,941,000",
+          "value": 122941000
+        },
+        {
+          "raw": "$379,837,000,",
+          "value": 379837000
+        },
+        {
+          "raw": "$75,551,000",
+          "value": 75551000
+        },
+        {
+          "raw": "$18,300,000,",
+          "value": 18300000
+        },
+        {
+          "raw": "$352,802,000,",
+          "value": 352802000
+        },
+        {
+          "raw": "$201,183,000",
+          "value": 201183000
+        },
+        {
+          "raw": "$51,500,000,",
+          "value": 51500000
+        },
+        {
+          "raw": "$426,904,000,",
+          "value": 426904000
+        },
+        {
+          "raw": "$5,000,000",
+          "value": 5000000
+        },
+        {
+          "raw": "$20,000,000",
+          "value": 20000000
+        },
+        {
+          "raw": "$1,000,000",
+          "value": 1000000
+        },
+        {
+          "raw": "$100,000",
+          "value": 100000
+        },
+        {
+          "raw": "$2,000,000",
+          "value": 2000000
+        },
+        {
+          "raw": "$5,000,000",
+          "value": 5000000
+        },
+        {
+          "raw": "$500,000",
+          "value": 500000
+        },
+        {
+          "raw": "$5,000,000",
+          "value": 5000000
+        },
+        {
+          "raw": "$250,000",
+          "value": 250000
+        },
+        {
+          "raw": "$4,000,000",
+          "value": 4000000
+        },
+        {
+          "raw": "$100,000",
+          "value": 100000
+        },
+        {
+          "raw": "$100,000",
+          "value": 100000
+        },
+        {
+          "raw": "$30,000,000,",
+          "value": 30000000
+        },
+        {
+          "raw": "$140,000,000",
+          "value": 140000000
+        }
+      ],
+      "textLength": 93418
+    },
+    {
+      "num": "B",
+      "header": "FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2026",
+      "titleCount": 0,
+      "titles": [],
+      "directSections": [
+        {
+          "num": "101",
+          "header": "",
+          "text": "Sec. 101.The Continuing Appropriations Act, 2026 () is further amended by substituting the date of enactment of this Act for the date specified in section 106(3).",
+          "fullTextLength": 162,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "102",
+          "header": "",
+          "text": "Sec. 102.For the purposes of the Continuing Appropriations Act, 2026 (), the time covered by such Act shall be considered to include the period which began on or about February 14, 2026, during which there occurred a lapse in appropriations.",
+          "fullTextLength": 241,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "103",
+          "header": "",
+          "text": "Sec. 103.Amounts made available in division A of the Homeland Security and Further Additional Continuing Appropriations Act, 2026, the Continuing Appropriations Act, 2026 (), andfor personnel pay, allowances, and benefits in each department and agency shall be available for payments pursuant to subsection (c) of, and such payments shall be made.",
+          "fullTextLength": 347,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "104",
+          "header": "",
+          "text": "Sec. 104.All obligations incurred and in anticipation of the appropriations made and authority granted by division A of the Homeland Security and Further Additional Continuing Appropriations Act, 2026 and the Continuing Appropriations Act, 2026 () for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of Government function, and for purposes as otherwise authorized by law, are hereby ratified and approved if otherwise in accord with the provisions of such Acts.",
+          "fullTextLength": 542,
+          "dollars": [],
+          "subsections": []
+        }
+      ],
+      "totalDollars": [],
+      "textLength": 1397
+    }
+  ],
+  "topSections": [
+    {
+      "num": "1",
+      "header": "SHORT TITLE.",
+      "text": "SECTION 1.SHORT TITLE.This Act may be cited as the “”.",
+      "fullTextLength": 54,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "2",
+      "header": "TABLE OF CONTENTS.",
+      "text": "SEC. 2.TABLE OF CONTENTS.Sec. 1.Short title. Sec. 2.Table of contents. Sec. 3.References. Sec. 4.Explanatory statement. Sec. 5.Statement of appropriations. DIVISION A—DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026 Title I—Departmental Management, Intelligence, Situational Awareness, and Oversight Title II—Security, Enforcement, and Investigations Title III—Protection, Preparedness, Response, and Recovery Title IV—Research, Development, Training, and Services Title V—General Provisions DIVISION B—FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2026",
+      "fullTextLength": 565,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "3",
+      "header": "REFERENCES.",
+      "text": "SEC. 3.REFERENCES.Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.",
+      "fullTextLength": 194,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "4",
+      "header": "EXPLANATORY STATEMENT.",
+      "text": "SEC. 4.EXPLANATORY STATEMENT.The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about January 22, 2026, and submitted by the chair of the Committee on Appropriations of the House, shall have the same effect with respect to the allocation of funds and implementation of this Act as if it were a joint explanatory statement of a committee of conference, except that the contents printed under the headings “U.S. Immigration and Customs Enforcement” and “Border Security Operations” under the heading “” shall have no force or effect for purposes of this Act, and amounts specified in the “Final Bill” column under the sub-heading “” under the heading ��” and under the heading “” in the “Department of Homeland Security Act, 2026” table shall all be $0.",
+      "fullTextLength": 809,
+      "dollars": [
+        {
+          "raw": "$0",
+          "value": 0
+        }
+      ],
+      "subsections": []
+    },
+    {
+      "num": "5",
+      "header": "STATEMENT OF APPROPRIATIONS.",
+      "text": "SEC. 5.STATEMENT OF APPROPRIATIONS.The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2026.",
+      "fullTextLength": 191,
+      "dollars": [],
+      "subsections": []
+    }
+  ],
+  "spending": {
+    "totalMentions": 246,
+    "largestAmounts": [
+      {
+        "raw": "$26,367,000,000,",
+        "value": 26367000000
+      },
+      {
+        "raw": "$26,367,000,000,",
+        "value": 26367000000
+      },
+      {
+        "raw": "$11,272,401,000,",
+        "value": 11272401000
+      },
+      {
+        "raw": "$11,272,401,000,",
+        "value": 11272401000
+      },
+      {
+        "raw": "$11,083,012,000",
+        "value": 11083012000
+      },
+      {
+        "raw": "$11,083,012,000",
+        "value": 11083012000
+      },
+      {
+        "raw": "$10,635,434,000,",
+        "value": 10635434000
+      },
+      {
+        "raw": "$10,635,434,000,",
+        "value": 10635434000
+      },
+      {
+        "raw": "$3,836,748,513,",
+        "value": 3836748513
+      },
+      {
+        "raw": "$3,836,748,513,",
+        "value": 3836748513
+      },
+      {
+        "raw": "$3,128,304,000,",
+        "value": 3128304000
+      },
+      {
+        "raw": "$3,128,304,000,",
+        "value": 3128304000
+      },
+      {
+        "raw": "$2,218,634,000,",
+        "value": 2218634000
+      },
+      {
+        "raw": "$2,218,634,000,",
+        "value": 2218634000
+      },
+      {
+        "raw": "$1,690,380,000,",
+        "value": 1690380000
+      },
+      {
+        "raw": "$1,690,380,000,",
+        "value": 1690380000
+      },
+      {
+        "raw": "$1,667,038,000",
+        "value": 1667038000
+      },
+      {
+        "raw": "$1,667,038,000",
+        "value": 1667038000
+      },
+      {
+        "raw": "$1,505,000,000",
+        "value": 1505000000
+      },
+      {
+        "raw": "$1,505,000,000",
+        "value": 1505000000
+      },
+      {
+        "raw": "$1,249,000,000,",
+        "value": 1249000000
+      },
+      {
+        "raw": "$1,249,000,000,",
+        "value": 1249000000
+      },
+      {
+        "raw": "$991,872,000,",
+        "value": 991872000
+      },
+      {
+        "raw": "$991,872,000,",
+        "value": 991872000
+      },
+      {
+        "raw": "$684,000,000,",
+        "value": 684000000
+      },
+      {
+        "raw": "$684,000,000,",
+        "value": 684000000
+      },
+      {
+        "raw": "$584,250,000",
+        "value": 584250000
+      },
+      {
+        "raw": "$584,250,000",
+        "value": 584250000
+      },
+      {
+        "raw": "$550,000,000",
+        "value": 550000000
+      },
+      {
+        "raw": "$550,000,000",
+        "value": 550000000
+      },
+      {
+        "raw": "$530,000,000",
+        "value": 530000000
+      },
+      {
+        "raw": "$530,000,000",
+        "value": 530000000
+      },
+      {
+        "raw": "$494,000,000",
+        "value": 494000000
+      },
+      {
+        "raw": "$494,000,000",
+        "value": 494000000
+      },
+      {
+        "raw": "$478,414,000",
+        "value": 478414000
+      },
+      {
+        "raw": "$478,414,000",
+        "value": 478414000
+      },
+      {
+        "raw": "$426,904,000,",
+        "value": 426904000
+      },
+      {
+        "raw": "$426,904,000,",
+        "value": 426904000
+      },
+      {
+        "raw": "$400,000,000",
+        "value": 400000000
+      },
+      {
+        "raw": "$400,000,000",
+        "value": 400000000
+      },
+      {
+        "raw": "$386,464,000,",
+        "value": 386464000
+      },
+      {
+        "raw": "$386,464,000,",
+        "value": 386464000
+      },
+      {
+        "raw": "$379,837,000,",
+        "value": 379837000
+      },
+      {
+        "raw": "$379,837,000,",
+        "value": 379837000
+      },
+      {
+        "raw": "$352,802,000,",
+        "value": 352802000
+      },
+      {
+        "raw": "$352,802,000,",
+        "value": 352802000
+      },
+      {
+        "raw": "$342,000,000",
+        "value": 342000000
+      },
+      {
+        "raw": "$342,000,000",
+        "value": 342000000
+      },
+      {
+        "raw": "$342,000,000",
+        "value": 342000000
+      },
+      {
+        "raw": "$342,000,000",
+        "value": 342000000
+      }
+    ]
+  },
+  "parsedAt": "2026-05-01T19:16:45.134Z"
+}
