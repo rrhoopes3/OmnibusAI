@@ -38,9 +38,10 @@ jobs:
 
       - name: Parse bill structure
         run: |
+          set -euo pipefail
           IFS=',' read -ra IDS <<< "${{ inputs.bill_ids }}"
           for id in "${IDS[@]}"; do
-            node scripts/parse-bill.js "$id" || echo "Warning: parse failed for $id, skipping"
+            node scripts/parse-bill.js "$id"
           done
 
       - name: Generate AI summaries
@@ -58,9 +59,11 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         timeout-minutes: 120
         run: |
+          set -euo pipefail
           IFS=',' read -ra IDS <<< "${{ inputs.bill_ids }}"
           for id in "${IDS[@]}"; do
-            node scripts/summarize.js "$id" || echo "Warning: summarize failed for $id, skipping"
+            node scripts/summarize.js "$id"
+            test -s "data/summaries/$id/overview.json"
           done
 
       - name: Build static site

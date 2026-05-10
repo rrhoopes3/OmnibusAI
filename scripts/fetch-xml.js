@@ -135,12 +135,18 @@ async function fetchAll() {
   }
 
   console.log(`Fetching XML for ${billIds.length} bill(s)...`);
+  let failed = false;
   for (const id of billIds) {
     try {
       await fetchBillXml(id);
     } catch (err) {
       console.error(`Failed to fetch ${id}: ${err.message}`);
+      failed = true;
     }
+  }
+
+  if (failed) {
+    process.exitCode = 1;
   }
 }
 

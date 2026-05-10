@@ -1,0 +1,13 @@
+{
+  "division": "B",
+  "header": "FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2026",
+  "summary": "## Division Summary\nDivision B is a short continuing-appropriations bridge. It amends the Continuing Appropriations Act, 2026 by substituting the date of enactment of this Act for the prior section 106(3) date, meaning the stopgap authority is extended through this Act's enactment date. It also treats the covered period as including the lapse in appropriations that began on or about February 14, 2026.\n\n## Key Effects\n- It recognizes the funding lapse period and connects it back to the continuing appropriations framework.\n- It makes personnel pay, allowances, and benefits available for required payments under the continuing appropriations language.\n- It ratifies and approves obligations incurred in anticipation of the appropriations and authorities in Division A and the continuing resolution when those obligations were for protecting life and property, orderly shutdown activity, or otherwise authorized purposes.\n- It does not list new standalone dollar amounts in the parsed text.\n\n## What It Means\nThis division is mostly cleanup and continuity language. Its practical role is to prevent administrative gaps from the lapse in appropriations and to validate necessary obligations made while agencies were operating under shutdown or near-shutdown conditions.",
+  "provider": "Codex",
+  "model": "gpt-5",
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0
+  },
+  "titles": [],
+  "generatedAt": "2026-05-10T06:42:33Z"
+}

@@ -1,0 +1,69 @@
+{
+  "division": "A",
+  "header": "DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2026",
+  "summary": "## Division Summary\nDivision A is the fiscal year 2026 appropriations package for the Department of Homeland Security. It funds DHS headquarters and oversight offices, border and travel operations, the Coast Guard, the Secret Service, federal cybersecurity, emergency management grants, law enforcement training, immigration services support, and science and technology programs. The largest direct line items are for the Coast Guard, Customs and Border Protection, TSA, FEMA grants, Secret Service operations, CISA, and DHS management.\n\n## Key Funding Areas\n- **Coast Guard operations and support**: $11.27 billion for Coast Guard operations, reserve support, defense-related activity, environmental compliance, depot maintenance, and related mission needs.\n- **Customs and Border Protection operations and support**: $11.08 billion for border, trade, air and marine, law enforcement, humanitarian, vehicle, vessel, aircraft, and unmanned system support.\n- **Transportation Security Administration operations and support**: $10.64 billion for aviation and transportation security, partly offset by security fee collections.\n- **FEMA federal assistance**: $3.84 billion for homeland security grants, urban security, nonprofit security, fire grants, emergency management performance grants, flood mapping, emergency food and shelter, warning systems, dam safety, and community project funding.\n- **Secret Service operations and support**: $3.13 billion for protective operations, investigations, vehicles, facilities, premium pay authority, and a $6 million missing and exploited children grant.\n- **CISA operations and support**: $2.22 billion for federal cybersecurity, infrastructure security, risk management, and threat-sharing activities.\n- **DHS Management Directorate**: $1.69 billion for department-wide management and vehicle fleet modernization.\n- **FEMA operations and support**: $1.67 billion for the agency's core staffing and mission support.\n- **Coast Guard retired pay**: $1.25 billion for retired pay and related benefit obligations.\n- **Coast Guard procurement, construction, and improvements**: $991.87 million for vessels, aircraft, shore facilities, aids to navigation, and related equipment.\n\n## Notable Provisions\nThe division is heavy on controls and reporting. It requires monthly DHS budget and staffing reports, restricts reprogramming and transfers, and sets penalties for late FEMA reporting and grant delays. It also bars the explanatory statement allocations for U.S. Immigration and Customs Enforcement and CBP Border Security Operations from having force or effect, sets those referenced table amounts to $0, and separately blocks transfers to CBP Border Security Operations. Other notable provisions include no new land border crossing fee, a CBP expenditure plan before procurement obligations, standards for pregnant and postpartum people in CBP custody, a restriction to autonomous border surveillance systems, Coast Guard MQ-9 aircraft funding paired with a ban on kinetic capabilities, and oversight access for Members of Congress to DHS detention facilities.",
+  "provider": "Codex",
+  "model": "gpt-5",
+  "usage": {
+    "inputTokens": 0,
+    "outputTokens": 0
+  },
+  "titles": [
+    {
+      "num": "I",
+      "header": "DEPARTMENTAL MANAGEMENT, INTELLIGENCE, SITUATIONAL AWARENESS, AND OVERSIGHT",
+      "summary": "Title I funds DHS leadership, management, intelligence, situational awareness, and inspector general functions. Major amounts include $316.30 million for the Office of the Secretary and Executive Management operations, $1.69 billion for the Management Directorate, $340.82 million for intelligence and situational awareness, and $257.60 million for the Office of Inspector General. It also funds procurement and construction for headquarters and management functions, keeps Federal Protective Service fee collections available, and requires detailed reporting on noncompetitive awards, monthly budget execution, staffing, Treasury forfeiture fund transfers, and aircraft travel costs.",
+      "provider": "Codex",
+      "model": "gpt-5",
+      "usage": {
+        "inputTokens": 0,
+        "outputTokens": 0
+      }
+    },
+    {
+      "num": "II",
+      "header": "SECURITY, ENFORCEMENT, AND INVESTIGATIONS",
+      "summary": "Title II funds the largest operational security components: CBP, TSA, the Coast Guard, and the Secret Service. It provides $11.08 billion for CBP operations and $222.89 million for CBP procurement; $10.64 billion for TSA operations, $330.23 million for TSA procurement, and $24 million for TSA research; $11.27 billion for Coast Guard operations, $991.87 million for Coast Guard procurement, $6.76 million for Coast Guard R&D, and $1.25 billion for Coast Guard retired pay; plus $3.13 billion for Secret Service operations, $118.52 million for Secret Service procurement, and $3.25 million for Secret Service R&D. The title also includes policy riders on border crossing fees, CBP procurement plans, autonomous surveillance systems, custody standards for pregnant people, TSA capital planning, Coast Guard force design and unmanned aircraft, and Secret Service overtime, protection, travel, and forensics facilities.",
+      "provider": "Codex",
+      "model": "gpt-5",
+      "usage": {
+        "inputTokens": 0,
+        "outputTokens": 0
+      }
+    },
+    {
+      "num": "III",
+      "header": "PROTECTION, PREPAREDNESS, RESPONSE, AND RECOVERY",
+      "summary": "Title III funds federal cybersecurity and emergency preparedness. It provides $2.22 billion for CISA operations and $386.46 million for CISA procurement, then funds FEMA with $1.67 billion for operations, $156.42 million for procurement, and $3.84 billion for federal assistance. FEMA grants include $494 million for State Homeland Security Grants, $584.25 million for Urban Area Security Initiative grants, $300 million for nonprofit security grants, $684 million split evenly between Assistance to Firefighters and SAFER staffing grants, $337.25 million for emergency management performance grants, $297.11 million for flood hazard mapping, $123.5 million for emergency food and shelter, $48 million for the Next Generation Warning System, and $272.67 million for community project funding. Administrative sections set grant timing requirements, reporting requirements, briefing rules, dashboard requirements, and penalties for missed deadlines.",
+      "provider": "Codex",
+      "model": "gpt-5",
+      "usage": {
+        "inputTokens": 0,
+        "outputTokens": 0
+      }
+    },
+    {
+      "num": "IV",
+      "header": "RESEARCH, DEVELOPMENT, TRAINING, AND SERVICES",
+      "summary": "Title IV funds DHS services, training, and research programs. It provides $122.94 million for U.S. Citizenship and Immigration Services operations, including E-Verify; $379.84 million for Federal Law Enforcement Training Centers operations and $18.3 million for FLETC procurement and construction; and $352.80 million for Science and Technology Directorate operations, $51.5 million for S&T procurement, and $426.90 million for S&T research and development. The title lets USCIS use funds for replacement vehicles in areas without GSA vehicles, bars A-76 competitions for certain USCIS service jobs, permits virtual oversight of biometrics collection at application support centers, and preserves FLETC accreditation and facility authorities.",
+      "provider": "Codex",
+      "model": "gpt-5",
+      "usage": {
+        "inputTokens": 0,
+        "outputTokens": 0
+      }
+    },
+    {
+      "num": "V",
+      "header": "GENERAL PROVISIONS",
+      "summary": "Title V contains department-wide rules on fiscal-year availability, transfers, reprogramming, working capital funds, intelligence funding, oversight access, detention records, migrant and detention estimates, border support requests, procurement restrictions, and other policy riders. It generally requires advance congressional notification for major reprogramming or transfers, limits carryover of unobligated operations balances, preserves congressional oversight access to DHS detention facilities, restricts procurement from certain Chinese military-linked entities, blocks use of DHS funds for Guantanamo detainee transfers into the United States, and requires monthly border arrival and detention/removal estimates. It also adds $30 million for Supreme Court salaries and expenses, $140 million for FAA air traffic organization operations, and blocks transfers to CBP Border Security Operations.",
+      "provider": "Codex",
+      "model": "gpt-5",
+      "usage": {
+        "inputTokens": 0,
+        "outputTokens": 0
+      }
+    }
+  ],
+  "generatedAt": "2026-05-10T06:42:33Z"
+}
