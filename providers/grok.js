@@ -8,8 +8,8 @@ const https = require('https');
 const { AIProvider } = require('./base');
 
 const MODELS = {
-  fast: process.env.GROK_FAST_MODEL || 'grok-4.3',
-  smart: process.env.GROK_SMART_MODEL || 'grok-4.3',
+  fast: process.env.GROK_FAST_MODEL || 'grok-4.5',
+  smart: process.env.GROK_SMART_MODEL || 'grok-4.5',
 };
 
 class GrokProvider extends AIProvider {
