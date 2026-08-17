@@ -1,0 +1,29 @@
+# OmnibusAI
+
+> Free, automated, AI-powered plain-English breakdowns of U.S. federal omnibus appropriations bills — section by section, dollar by dollar.
+
+OmnibusAI monitors Congress.gov for new appropriations and omnibus bills, downloads the full bill text in XML (USLM schema) from GovInfo.gov, parses it into its natural hierarchy (divisions, titles, sections) with dollar amounts extracted, then uses an AI language model to summarize each section in everyday language. The results are published on this site, organized by department and program area, with an RSS feed for new bills.
+
+The service exists because omnibus spending bills fund the entire federal government yet run to 1,000+ pages of dense legislative text, and existing tools for understanding them are either paid (aimed at lobbyists and policy professionals) or sparse. All summaries are AI-generated and may contain errors — always verify against official sources such as Congress.gov. The site is non-partisan, educational (not legal or financial advice), and open source.
+
+## Pages
+
+- [Home — Analyzed Bills](https://omnibusai.info/): Index of all analyzed bills with headline summaries
+- [About](https://omnibusai.info/about/): How the pipeline works, disclaimers, and data sources
+- [RSS Feed](https://omnibusai.info/feed.xml): New bill analyses as they publish
+- [H.R. 7147 (119th Congress)](https://omnibusai.info/bill/119-hr-7147/): FY2026 Homeland Security appropriations and continuing-appropriations bill, 2 divisions (CBP, TSA, Coast Guard, Secret Service, CISA, FEMA, USCIS, FLETC, S&T)
+- [H.R. 7148 (119th Congress)](https://omnibusai.info/bill/119-hr-7148/): Further consolidated appropriations for FY2026, 9 divisions
+- [H.R. 6938 (119th Congress)](https://omnibusai.info/bill/119-hr-6938/): Consolidated appropriations for FY2026, 3 divisions
+- [H.R. 4366 (118th Congress)](https://omnibusai.info/bill/118-hr-4366/): Consolidated Appropriations Act, 2024
+- [H.R. 5325 (114th Congress)](https://omnibusai.info/bill/114-hr-5325/): Placeholder entry with limited data
+- [H.R. 2028 (114th Congress)](https://omnibusai.info/bill/114-hr-2028/): Placeholder entry with limited data
+
+Each bill page links to per-division subpages with section-by-section summaries.
+
+## Key facts
+
+- All bill text is public domain, sourced from Congress.gov (bill metadata and version tracking) and GovInfo.gov (full text, USLM XML)
+- Summaries are original, AI-generated content and may contain errors; verify important details against official sources
+- Non-partisan by design: prompts are written to be balanced and non-editorial
+- Free to use; the project is open source on GitHub
+- Pipeline stages: monitor → fetch → parse → summarize → publish
