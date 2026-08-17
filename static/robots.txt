@@ -1,0 +1,8 @@
+# robots.txt — omnibusai.info
+# Search engines and AI/LLM crawlers are welcome.
+
+User-agent: *
+Allow: /
+
+# AI agent discovery
+# See https://omnibusai.info/llms.txt for a concise, agent-readable summary of this site.
