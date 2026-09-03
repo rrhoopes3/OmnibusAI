@@ -1,0 +1,17 @@
+{
+  "id": "119-hr-6500",
+  "congress": 119,
+  "type": "hr",
+  "number": "6500",
+  "title": "Continuing Appropriations and Extensions Act, 2027",
+  "latestAction": {
+    "actionDate": "2026-09-01",
+    "actionTime": "14:05:13",
+    "text": "Motion to reconsider laid on the table Agreed to without objection."
+  },
+  "updateDate": "2026-09-03",
+  "textVersion": "Enrolled Bill",
+  "xmlUrl": "https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500enr.xml",
+  "discoveredAt": "2026-09-03T03:34:40.833Z",
+  "status": "ready"
+}
