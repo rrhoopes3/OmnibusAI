@@ -1,0 +1,13 @@
+{
+  "division": "A",
+  "header": "EXTENSION OF CONTINUING APPROPRIATIONS ACT, 2024",
+  "summary": "## Overview\n\nThis division does not fund a single department. It briefly extends an existing stopgap funding law—the Continuing Appropriations Act, 2024 (Division A of Public Law 118–15)—so federal agencies covered by that law can keep operating past the dates that law would otherwise expire. It changes two expiration dates; it does not write a new budget.\n\n## Total Spending\n\nNo total appropriation appears in this division. It does not set new dollar amounts. It keeps prior continuing-resolution funding in place and only moves the cutoff dates to **March 8, 2024**, and **March 22, 2024**.\n\n## Key Funding Areas\n\n- **No new line items**: This text does not list programs, agencies, or dollar amounts.\n- **Existing stopgap levels continue**: Agencies already covered by the Continuing Appropriations Act, 2024, generally keep operating under that earlier law’s funding rules until the new dates.\n- **Two separate deadlines**: Section 106(4) of the underlying law is changed to **March 8, 2024**. Section 106(3) is changed to **March 22, 2024**. Which agencies fall under which date is defined in that earlier law, not in this division.\n\n## Notable Provisions\n\n- Extends the Continuing Appropriations Act, 2024, by amending Public Law 118–15 rather than enacting full-year appropriations.\n- Replaces the date in section 106(3) with **March 22, 2024**.\n- Replaces the date in section 106(4) with **March 8, 2024**.\n- Official short title: “Extension of Continuing Appropriations Act, 2024.”\n- No new programs, spending caps, or policy riders appear in this division’s text.\n\n## Who Benefits\n\nFederal departments and agencies that were already funded by the 2024 continuing resolution, and the public services those agencies provide, avoid a funding lapse on the old expiration dates. People and communities that rely on those agencies benefit only in the sense that operations can continue until the new deadlines. This text does not name specific beneficiaries.\n\n## Plain English Summary\n\nThis is a short deadline extension, not a spending plan. Congress had already passed a temporary funding bill to keep the government open. This division pushes two of that bill’s end dates out—one to March 8, 2024, and one to March 22, 2024—so covered agencies can keep running at existing stopgap levels a little longer. It does not say how much money anyone gets, and it does not decide a full-year budget.",
+  "provider": "Grok",
+  "model": "grok-4.7",
+  "usage": {
+    "inputTokens": 2112,
+    "outputTokens": 537
+  },
+  "titles": [],
+  "generatedAt": "2026-10-04T15:45:28.171Z"
+}

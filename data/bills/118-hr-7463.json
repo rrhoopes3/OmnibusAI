@@ -10,7 +10,9 @@
   },
   "updateDate": "2026-09-08",
   "textVersion": "Enrolled Bill",
-  "xmlUrl": "https://www.congress.gov/118/bills/hr7463/BILLS-118hr7463enr.xml",
+  "xmlUrl": "https://www.govinfo.gov/content/pkg/BILLS-118hr7463enr/uslm/BILLS-118hr7463enr.xml",
   "discoveredAt": "2026-09-08T20:52:23.727Z",
-  "status": "ready"
+  "status": "ready",
+  "xmlSize": 14657,
+  "fetchedAt": "2026-10-04T15:45:13.492Z"
 }

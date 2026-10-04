@@ -10,7 +10,9 @@
   },
   "updateDate": "2026-09-08",
   "textVersion": "Enrolled Bill",
-  "xmlUrl": "https://www.congress.gov/118/bills/hr5860/BILLS-118hr5860enr.xml",
+  "xmlUrl": "https://www.govinfo.gov/content/pkg/BILLS-118hr5860enr/uslm/BILLS-118hr5860enr.xml",
   "discoveredAt": "2026-09-09T03:46:37.127Z",
-  "status": "ready"
+  "status": "ready",
+  "xmlSize": 198688,
+  "fetchedAt": "2026-10-04T15:45:13.575Z"
 }

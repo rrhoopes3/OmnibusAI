@@ -1,0 +1,917 @@
+{
+  "meta": {
+    "congress": "118",
+    "session": "1",
+    "legisNum": "5860",
+    "legisType": "House Bill",
+    "officialTitle": "Making continuing appropriations for fiscal year 2024, and for other purposes."
+  },
+  "divisionCount": 2,
+  "divisions": [
+    {
+      "num": "A",
+      "header": "CONTINUING APPROPRIATIONS ACT, 2024",
+      "titleCount": 0,
+      "titles": [],
+      "directSections": [
+        {
+          "num": "",
+          "header": "",
+          "text": "The following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2024, and for other purposes, namely:",
+          "fullTextLength": 328,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "101",
+          "header": "",
+          "text": "Sec. 101.Such amounts as may be necessary, at a rate for operations as provided in the applicable appropriations Acts for fiscal year 2023 and under the authority and conditions provided in such Acts, for continuing projects or activities (including the costs of direct loans and loan guarantees) that are not otherwise specifically provided for in this Act, that were conducted in fiscal year 2023, and for which appropriations, funds, or other authority were made available in the following appropriations Acts:(1)The Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2023 (), except section 729, and including the matter under the headings “Food for Peace Title II Grants” and “McGovern-Dole International Food for Education and Child Nutrition Program Grants” in, the matter under the headings “Agricultural Research Service—Buildings and Facilities”, “Food Safety and Inspection Service”, “Rural Housing Service— Rural Community Facilities Program Account” (except all that follows after “expended” in such matter and except that such matter shall be applied by substituting “$25,300,000” for “$75,300,000”), and “Rural Utilities Service—Rural Water and Waste Disposal Program Account” (except all that follows after “expended” in such matter and except that such matter shall be applied by substituting “$60,000,000” for “$325,000,000”) in, and section 2102 in title I of such division N. (2)The Commerce, Justice, Science, and Related Agencies Appropriations Act, 2023 (), except section 540, and except section 521(d)(1) shall be applied by substituting “$122,572,000” for “$705,768,000”, and including the matter under the headings “Federal Prison System—Buildings and Facilities” and “National Science Foundation—STEM Education” (except all that follows after “2024” in such matter and except that such matter shall be applied by substituting “$92,000,000” for “$217,000,000”) in, and the second paragraph under each of the headings “Nat",
+          "fullTextLength": 5636,
+          "dollars": [
+            {
+              "raw": "$25,300,000",
+              "value": 25300000
+            },
+            {
+              "raw": "$75,300,000",
+              "value": 75300000
+            },
+            {
+              "raw": "$60,000,000",
+              "value": 60000000
+            },
+            {
+              "raw": "$325,000,000",
+              "value": 325000000
+            },
+            {
+              "raw": "$122,572,000",
+              "value": 122572000
+            },
+            {
+              "raw": "$705,768,000",
+              "value": 705768000
+            },
+            {
+              "raw": "$92,000,000",
+              "value": 92000000
+            },
+            {
+              "raw": "$217,000,000",
+              "value": 217000000
+            },
+            {
+              "raw": "$42,000,000",
+              "value": 42000000
+            },
+            {
+              "raw": "$62,000,000",
+              "value": 62000000
+            },
+            {
+              "raw": "$608,162,000",
+              "value": 608162000
+            },
+            {
+              "raw": "$818,162,000",
+              "value": 818162000
+            },
+            {
+              "raw": "$87,054,000",
+              "value": 87054000
+            },
+            {
+              "raw": "$147,054,000",
+              "value": 147054000
+            },
+            {
+              "raw": "$637,902,000",
+              "value": 637902000
+            },
+            {
+              "raw": "$937,902,000",
+              "value": 937902000
+            },
+            {
+              "raw": "$915,048,000",
+              "value": 915048000
+            },
+            {
+              "raw": "$1,535,048,000",
+              "value": 1535048000
+            },
+            {
+              "raw": "$74,996,000",
+              "value": 74996000
+            },
+            {
+              "raw": "$374,996,000",
+              "value": 374996000
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "num": "102",
+          "header": "",
+          "text": "Sec. 102.(a)No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for:(1)the new production of items not funded for production in fiscal year 2023 or prior years; (2)the increase in production rates above those sustained with fiscal year 2023 funds; or (3)the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2023. (b)No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later.",
+          "fullTextLength": 1151,
+          "dollars": [],
+          "subsections": [
+            {
+              "num": "",
+              "header": "",
+              "text": "(a)No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for:(1)the new production of items not funded for production in fiscal year 2023 or prior years; (2)the increase in production rates above those sustained with fiscal year 2023 funds; or (3)the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2023."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(b)No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later."
+            }
+          ]
+        },
+        {
+          "num": "103",
+          "header": "",
+          "text": "Sec. 103.Appropriations made by section 101 shall be available to the extent and in the manner that would be provided by the pertinent appropriations Act.",
+          "fullTextLength": 154,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "104",
+          "header": "",
+          "text": "Sec. 104.Except as otherwise provided in section 102, no appropriation or funds made available or authority granted pursuant to section 101 shall be used to initiate or resume any project or activity for which appropriations, funds, or other authority were not available during fiscal year 2023.",
+          "fullTextLength": 295,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "105",
+          "header": "",
+          "text": "Sec. 105.Appropriations made and authority granted pursuant to this Act shall cover all obligations or expenditures incurred for any project or activity during the period for which funds or authority for such project or activity are available under this Act.",
+          "fullTextLength": 258,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "106",
+          "header": "",
+          "text": "Sec. 106.Unless otherwise provided for in this Act or in the applicable appropriations Act for fiscal year 2024, appropriations and funds made available and authority granted pursuant to this Act shall be available until whichever of the following first occurs:(1)The enactment into law of an appropriation for any project or activity provided for in this Act. (2)The enactment into law of the applicable appropriations Act for fiscal year 2024 without any provision for such project or activity. (3)November 17, 2023.",
+          "fullTextLength": 518,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "107",
+          "header": "",
+          "text": "Sec. 107.Expenditures made pursuant to this Act shall be charged to the applicable appropriation, fund, or authorization whenever a bill in which such applicable appropriation, fund, or authorization is contained is enacted into law.",
+          "fullTextLength": 233,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "108",
+          "header": "",
+          "text": "Sec. 108.Appropriations made and funds made available by or authority granted pursuant to this Act may be used without regard to the time limitations for submission and approval of apportionments set forth in, but nothing in this Act may be construed to waive any other provision of law governing the apportionment of funds.",
+          "fullTextLength": 324,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "109",
+          "header": "",
+          "text": "Sec. 109.Notwithstanding any other provision of this Act, except section 106, for those programs that would otherwise have high initial rates of operation or complete distribution of appropriations at the beginning of fiscal year 2024 because of distributions of funding to States, foreign countries, grantees, or others, such high initial rates of operation or complete distribution shall not be made, and no grants shall be awarded for such programs funded by this Act that would impinge on final funding prerogatives.",
+          "fullTextLength": 520,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "110",
+          "header": "",
+          "text": "Sec. 110.This Act shall be implemented so that only the most limited funding action of that permitted in the Act shall be taken in order to provide for continuation of projects and activities.",
+          "fullTextLength": 192,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "111",
+          "header": "",
+          "text": "Sec. 111.(a)For entitlements and other mandatory payments whose budget authority was provided in appropriations Acts for fiscal year 2023, except the matter under the heading “” in, and for activities under the Food and Nutrition Act of 2008, activities shall be continued at the rate to maintain program levels under current law, under the authority and conditions provided in the applicable appropriations Act for fiscal year 2023, to be continued through the date specified in section 106(3). (b)Notwithstanding section 106, obligations for mandatory payments due on or about the first day of any month that begins after October 2023 but not later than 30 days after the date specified in section 106(3) may continue to be made, and funds shall be available for such payments.",
+          "fullTextLength": 779,
+          "dollars": [],
+          "subsections": [
+            {
+              "num": "",
+              "header": "",
+              "text": "(a)For entitlements and other mandatory payments whose budget authority was provided in appropriations Acts for fiscal year 2023, except the matter under the heading “” in, and for activities under the Food and Nutrition Act of 2008, activities shall be continued at the rate to maintain program levels under current law, under the authority and conditions provided in the applicable appropriations Act for fiscal year 2023, to be continued through the date specified in section 106(3)."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(b)Notwithstanding section 106, obligations for mandatory payments due on or about the first day of any month that begins after October 2023 but not later than 30 days after the date specified in section 106(3) may continue to be made, and funds shall be available for such payments."
+            }
+          ]
+        },
+        {
+          "num": "112",
+          "header": "",
+          "text": "Sec. 112.Amounts made available under section 101 for civilian personnel compensation and benefits in each department and agency may be apportioned up to the rate for operations necessary to avoid furloughs within such department or agency, consistent with the applicable appropriations Act for fiscal year 2023, except that such authority provided under this section shall not be used until after the department or agency has taken all necessary actions to reduce or defer non-personnel-related administrative expenses.",
+          "fullTextLength": 520,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "113",
+          "header": "",
+          "text": "Sec. 113.Funds appropriated by this Act may be obligated and expended notwithstanding(), section 15 of the State Department Basic Authorities Act of 1956 (), section 313 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (), and section 504(a)(1) of the National Security Act of 1947 ().",
+          "fullTextLength": 307,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "114",
+          "header": "",
+          "text": "Sec. 114.(a)(1)For each amount incorporated by reference in this Act from amounts provided by division M or N of, each section or paragraph of an account providing each such amount, as applicable, shall be applied as if that section or paragraph ended with the following sentence: “The amount provided herein is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.”. (2)Each amount incorporated by reference in this Act that was previously designated by the Congress as an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, or as being for disaster relief pursuant to a concurrent resolution on the budget in the Senate and section 1(f) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, is designated by the Congress as being an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 or as being for disaster relief pursuant to section 251(b)(2)(D) of such Act, respectively. (b)(1)Each amount incorporated by reference in this Act that was specified to meet the terms of section 4004(b)(5)(B) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(g)(2) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, or as additional new budget authority for purposes of section 4004(b)(5) of such concurrent resolution and section 1(g) of such House resolution, is provided to meet the terms of section 251(b)(2)(F)(ii)(I) of the Balanced Budget and Emergency Deficit Control Act of 1985, or is additional new budget authority as specified for purposes of section 251(b)(2)(F",
+          "fullTextLength": 4598,
+          "dollars": [],
+          "subsections": [
+            {
+              "num": "",
+              "header": "",
+              "text": "(a)(1)For each amount incorporated by reference in this Act from amounts provided by division M or N of, each section or paragraph of an account providing each such amount, as applicable, shall be applied as if that section or paragraph ended with the following sentence: “The amount provided herein is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.”. (2)Each amount incorporated by reference in this Act that was previously designated by the Congress as an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, or as being for disaster relief pursuant to a concurrent resolution on the budget in the Senate and section 1(f) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, is designated by the Congress as being an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 or as being for disaster relief pursuant to section 251(b)(2)(D) of such Act, respectively."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(b)(1)Each amount incorporated by reference in this Act that was specified to meet the terms of section 4004(b)(5)(B) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(g)(2) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, or as additional new budget authority for purposes of section 4004(b)(5) of such concurrent resolution and section 1(g) of such House resolution, is provided to meet the terms of section 251(b)(2)(F)(ii)(I) of the Balanced Budget and Emergency Deficit Control Act of 1985, or is additional new budget authority as specified for purposes of section 251(b)(2)(F) of such Act, respectively. (2)Each amount incorporated by reference in this Act for “Department of Labor—Employment and Training Administration—State Unemployment Insurance and Employment Service Operations” that was specified to meet the terms of a concurrent resolution on the budget in the Senate and section 1(j)(2) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, or as additional new budget authority for purposes of a concurrent resolution on the budget in the Senate and section 1(j) of such House resolution, is provided to meet the terms of section 251(b)(2)(E)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985, or is additional new budget authority as specified for the purposes of section 251(b)(2)(E) of such Act, respectively. (3)Each amount incorporated by reference in this Act for “Department of Health and Human Services— Centers for Medicare & Medicaid Services—Health Care Fraud and Abuse Control Account” that was specified to meet the terms of a concurrent resolution on the budget in the Senate, or as additional new budget authority for purposes of a concurrent resolution on the budget in the Senate and section 1(h) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, is provided to meet the terms of section 251(b)(2)(C)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985, or is additional new budget authority as specified for the purposes of section 251(b)(2)(C) of such Act, respectively. (4)Each amount incorporated by reference in this Act for “Social Security Administration—Limitation on Administrative Expenses” that was specified to meet the terms of a concurrent resolution on the budget in the Senate, or as additional new budget authority for purposes of a concurrent resolution on the budget in the Senate and section 1(i) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022, is provided to meet the terms of section 251(b)(2)(B)(ii)(III) of the Balanced Budget and Emergency Deficit Control Act of 1985, or is additional new budget authority as specified for the purposes of section 251(b)(2)(B) of such Act, respectively."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(c)Each amount designated in this Act by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 shall be available (or repurposed or rescinded, if applicable) only if the President subsequently so designates all such amounts and transmits such designations to the Congress."
+            }
+          ]
+        },
+        {
+          "num": "115",
+          "header": "",
+          "text": "Sec. 115.(a)Rescissions or cancellations of discretionary budget authority that continue pursuant to section 101 in Treasury Appropriations Fund Symbols (TAFS)—(1)to which other appropriations are not provided by this Act, but for which there is a current applicable TAFS that does receive an appropriation in this Act; or (2)which are no-year TAFS and receive other appropriations in this Act, may be continued instead by reducing the rate for operations otherwise provided by section 101 for such current applicable TAFS, as long as doing so does not impinge on the final funding prerogatives of the Congress. (b)Rescissions or cancellations described in subsection (a) shall continue in an amount equal to the lesser of—(1)the amount specified for rescission or cancellation in the applicable appropriations Act referenced in section 101 of this Act; or (2)the amount of balances available, as of October 1, 2023, from the funds specified for rescission or cancellation in the applicable appropriations Act referenced in section 101 of this Act. (c)No later than November 17, 2023, the Director of the Office of Management and Budget shall provide to the Committees on Appropriations of the House of Representatives and the Senate a comprehensive list of the rescissions or cancellations that will continue pursuant to section 101:",
+          "fullTextLength": 1334,
+          "dollars": [],
+          "subsections": [
+            {
+              "num": "",
+              "header": "",
+              "text": "(a)Rescissions or cancellations of discretionary budget authority that continue pursuant to section 101 in Treasury Appropriations Fund Symbols (TAFS)—(1)to which other appropriations are not provided by this Act, but for which there is a current applicable TAFS that does receive an appropriation in this Act; or (2)which are no-year TAFS and receive other appropriations in this Act, may be continued instead by reducing the rate for operations otherwise provided by section 101 for such current applicable TAFS, as long as doing so does not impinge on the final funding prerogatives of the Congress."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(b)Rescissions or cancellations described in subsection (a) shall continue in an amount equal to the lesser of—(1)the amount specified for rescission or cancellation in the applicable appropriations Act referenced in section 101 of this Act; or (2)the amount of balances available, as of October 1, 2023, from the funds specified for rescission or cancellation in the applicable appropriations Act referenced in section 101 of this Act."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(c)No later than November 17, 2023, the Director of the Office of Management and Budget shall provide to the Committees on Appropriations of the House of Representatives and the Senate a comprehensive list of the rescissions or cancellations that will continue pursuant to section 101:"
+            }
+          ]
+        },
+        {
+          "num": "116",
+          "header": "",
+          "text": "Sec. 116.Amounts made available by section 101 for “Farm Service Agency—Agricultural Credit Insurance Fund Program Account” may be apportioned up to the rate for operations necessary to accommodate approved applications for direct and guaranteed farm ownership loans, as authorized by",
+          "fullTextLength": 284,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "117",
+          "header": "",
+          "text": "Sec. 117.Amounts made available by section 101 for “Rural Housing Service—Rental Assistance Program” may be apportioned up to the rate for operations necessary to maintain activities as authorized by section 521(a)(2) of the Housing Act of 1949.",
+          "fullTextLength": 245,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "118",
+          "header": "",
+          "text": "Sec. 118.Amounts made available by section 101 for “Domestic Food Programs—Food and Nutrition Service—Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)” may be apportioned at the rate for operations necessary to maintain participation.",
+          "fullTextLength": 263,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "119",
+          "header": "",
+          "text": "Sec. 119.Amounts made available by section 101 for “Domestic Food Programs—Food and Nutrition Service—Commodity Assistance Program” may be apportioned up to the rate for operations necessary to maintain current program caseload in the Commodity Supplemental Food Program.",
+          "fullTextLength": 271,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "120",
+          "header": "",
+          "text": "Sec. 120.Section 260 of the Agricultural Marketing Act of 1946 () and section 942 of the Livestock Mandatory Reporting Act of 1999 (;) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2023”.",
+          "fullTextLength": 242,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "121",
+          "header": "",
+          "text": "Sec. 121.Amounts made available by section 101 for “National Telecommunications and Information Administration—Salaries and Expenses” may be apportioned up to the rate for operations necessary to administer broadband programs.",
+          "fullTextLength": 226,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "122",
+          "header": "",
+          "text": "Sec. 122.(a)Funds previously made available in the Consolidated Appropriations Act, 2017 () and the Consolidated Appropriations Act, 2018 () under the heading “” that were available for obligation through fiscal year 2018 and fiscal year 2019, respectively, are to remain available through fiscal year 2024 for the liquidation of valid obligations incurred in fiscal years 2017 through 2019. (b)(1)Subject to paragraph (2), this section shall become effective immediately upon enactment of this Act. (2)If this Act is enacted after September 30, 2023, this section shall be applied as if it were in effect on September 30, 2023.",
+          "fullTextLength": 628,
+          "dollars": [],
+          "subsections": [
+            {
+              "num": "",
+              "header": "",
+              "text": "(a)Funds previously made available in the Consolidated Appropriations Act, 2017 () and the Consolidated Appropriations Act, 2018 () under the heading “” that were available for obligation through fiscal year 2018 and fiscal year 2019, respectively, are to remain available through fiscal year 2024 for the liquidation of valid obligations incurred in fiscal years 2017 through 2019."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(b)(1)Subject to paragraph (2), this section shall become effective immediately upon enactment of this Act. (2)If this Act is enacted after September 30, 2023, this section shall be applied as if it were in effect on September 30, 2023."
+            }
+          ]
+        },
+        {
+          "num": "123",
+          "header": "",
+          "text": "Sec. 123.For purposes of section 235(b) of the Sentencing Reform Act of 1984 (;;), as such section relates to, and the United States Parole Commission, each reference in such section to “36 years” or “36-year period” shall be deemed a reference to “36 years and 17 days” or “36-year and 17-day period”, respectively.",
+          "fullTextLength": 316,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "124",
+          "header": "",
+          "text": "Sec. 124.Notwithstanding sections 102 and 104, amounts made available by section 101 to the Department of Defense for “Shipbuilding and Conversion, Navy” may be apportioned up to the rate for operations necessary for “Ohio Replacement Submarine (Full Funding)” in an amount not to exceed $621,270,000 for the procurement of one Columbia Class Submarine.",
+          "fullTextLength": 353,
+          "dollars": [
+            {
+              "raw": "$621,270,000",
+              "value": 621270000
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "num": "125",
+          "header": "",
+          "text": "Sec. 125.During the period covered by this Act,, shall be applied by substituting “four years” for “two years”.",
+          "fullTextLength": 111,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "126",
+          "header": "",
+          "text": "Sec. 126.Notwithstanding section 101, the matter preceding the first proviso under the heading “” inshall be applied by substituting “$219,076,000” for “$190,784,000”.",
+          "fullTextLength": 167,
+          "dollars": [
+            {
+              "raw": "$219,076,000",
+              "value": 219076000
+            },
+            {
+              "raw": "$190,784,000",
+              "value": 190784000
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "num": "127",
+          "header": "",
+          "text": "Sec. 127.Notwithstanding any other provision of this Act, except section 106, the District of Columbia may expend local funds made available under the heading “” for such programs and activities under the District of Columbia Appropriations Act, 2023 () at the rate set forth in the Fiscal Year 2024 Local Budget Act of 2023 (D.C. Act 25–161), as modified as of the date of enactment of this Act.",
+          "fullTextLength": 396,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "128",
+          "header": "",
+          "text": "Sec. 128.Amounts made available by section 101 to the Department of Homeland Security under the heading “” may be apportioned up to the rate for operations necessary to carry out response and recovery activities under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ().",
+          "fullTextLength": 289,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "129",
+          "header": "",
+          "text": "Sec. 129.In addition to amounts otherwise provided by section 101, for “Federal Emergency Management Agency—Disaster Relief Fund”, there is appropriated $16,000,000,000, for an additional amount for fiscal year 2024, to remain available until expended, of which $2,000,000 shall be transferred to “Office of the Inspector General—Operations and Support” for audits and investigations of activities funded under “Federal Emergency Management Agency—Disaster Relief Fund” and $15,500,000,000 shall be for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ():",
+          "fullTextLength": 611,
+          "dollars": [
+            {
+              "raw": "$16,000,000,000,",
+              "value": 16000000000
+            },
+            {
+              "raw": "$2,000,000",
+              "value": 2000000
+            },
+            {
+              "raw": "$15,500,000,000",
+              "value": 15500000000
+            }
+          ],
+          "subsections": []
+        },
+        {
+          "num": "130",
+          "header": "",
+          "text": "Sec. 130.(a)Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 (and 4026) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2023”. (b)(1)Subject to paragraph (2), this section shall become effective immediately upon enactment of this Act. (2)If this Act is enacted after September 30, 2023, this section shall be applied as if it were in effect on September 30, 2023.",
+          "fullTextLength": 437,
+          "dollars": [],
+          "subsections": [
+            {
+              "num": "",
+              "header": "",
+              "text": "(a)Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 (and 4026) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2023”."
+            },
+            {
+              "num": "",
+              "header": "",
+              "text": "(b)(1)Subject to paragraph (2), this section shall become effective immediately upon enactment of this Act. (2)If this Act is enacted after September 30, 2023, this section shall be applied as if it were in effect on September 30, 2023."
+            }
+          ]
+        },
+        {
+          "num": "131",
+          "header": "",
+          "text": "Sec. 131.Section 227(a) of the Federal Cybersecurity Enhancement Act of 2015 () shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2023”.",
+          "fullTextLength": 187,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "132",
+          "header": "",
+          "text": "Sec. 132.Amounts made available by section 101 for “Department of the Interior—Department-Wide Programs—Wildland Fire Management” and “Department of Agriculture—Forest Service—Wildland Fire Management” shall be available for the Federal wildland firefighter base salary increase provided under section 40803(d)(4)(B) ofand may be apportioned up to the rate for operations necessary to continue to fund such base salary increase.",
+          "fullTextLength": 428,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "133",
+          "header": "",
+          "text": "Sec. 133.Activities authorized by part A of title IV (other than under section 403(c) or 418) and section 1108(b) of the Social Security Act shall continue through the date specified in section 106(3), in the manner authorized for fiscal year 2023, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.",
+          "fullTextLength": 412,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "134",
+          "header": "",
+          "text": "Sec. 134.Notwithstanding section 101,shall be applied during the period covered by this Act by substituting “fiscal year 2017, fiscal year 2018, and fiscal year 2019” for “fiscal year 2017 and fiscal year 2018”.",
+          "fullTextLength": 211,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "135",
+          "header": "",
+          "text": "Sec. 135.The authority provided by section 2401 of the Afghanistan Supplemental Appropriations Act, 2022 () shall continue in effect through the date specified in section 106(3) of this Act.",
+          "fullTextLength": 190,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "136",
+          "header": "",
+          "text": "Sec. 136.Notwithstanding section 101, the matter under the heading “” inshall be applied bythe following new provisos before the last proviso: “”.",
+          "fullTextLength": 146,
+          "dollars": [],
+          "subsections": []
+        },
+        {
+          "num": "137",
+          "header": "",
+          "text": "Sec. 137.Notwithstanding section 101, the matter preceding the first proviso under the heading “” inshall be applied by substituting “$617,000,000” for “$570,000,000” and substituting “$2,174,200,000” for “$2,221,200,000”.",
+          "fullTextLength": 222,
+          "dollars": [
+            {
+              "raw": "$617,000,000",
+              "value": 617000000
+            },
+            {
+              "raw": "$570,000,000",
+              "value": 570000000
+            },
+            {
+              "raw": "$2,174,200,000",
+              "value": 2174200000
+            },
+            {
+              "raw": "$2,221,200,000",
+              "value": 2221200000
+            }
+          ],
+          "subsections": []
+        }
+      ],
+      "totalDollars": [
+        {
+          "raw": "$25,300,000",
+          "value": 25300000
+        },
+        {
+          "raw": "$75,300,000",
+          "value": 75300000
+        },
+        {
+          "raw": "$60,000,000",
+          "value": 60000000
+        },
+        {
+          "raw": "$325,000,000",
+          "value": 325000000
+        },
+        {
+          "raw": "$122,572,000",
+          "value": 122572000
+        },
+        {
+          "raw": "$705,768,000",
+          "value": 705768000
+        },
+        {
+          "raw": "$92,000,000",
+          "value": 92000000
+        },
+        {
+          "raw": "$217,000,000",
+          "value": 217000000
+        },
+        {
+          "raw": "$42,000,000",
+          "value": 42000000
+        },
+        {
+          "raw": "$62,000,000",
+          "value": 62000000
+        },
+        {
+          "raw": "$608,162,000",
+          "value": 608162000
+        },
+        {
+          "raw": "$818,162,000",
+          "value": 818162000
+        },
+        {
+          "raw": "$87,054,000",
+          "value": 87054000
+        },
+        {
+          "raw": "$147,054,000",
+          "value": 147054000
+        },
+        {
+          "raw": "$637,902,000",
+          "value": 637902000
+        },
+        {
+          "raw": "$937,902,000",
+          "value": 937902000
+        },
+        {
+          "raw": "$915,048,000",
+          "value": 915048000
+        },
+        {
+          "raw": "$1,535,048,000",
+          "value": 1535048000
+        },
+        {
+          "raw": "$74,996,000",
+          "value": 74996000
+        },
+        {
+          "raw": "$374,996,000",
+          "value": 374996000
+        },
+        {
+          "raw": "$621,270,000",
+          "value": 621270000
+        },
+        {
+          "raw": "$219,076,000",
+          "value": 219076000
+        },
+        {
+          "raw": "$190,784,000",
+          "value": 190784000
+        },
+        {
+          "raw": "$16,000,000,000,",
+          "value": 16000000000
+        },
+        {
+          "raw": "$2,000,000",
+          "value": 2000000
+        },
+        {
+          "raw": "$15,500,000,000",
+          "value": 15500000000
+        },
+        {
+          "raw": "$617,000,000",
+          "value": 617000000
+        },
+        {
+          "raw": "$570,000,000",
+          "value": 570000000
+        },
+        {
+          "raw": "$2,174,200,000",
+          "value": 2174200000
+        },
+        {
+          "raw": "$2,221,200,000",
+          "value": 2221200000
+        }
+      ],
+      "textLength": 23865
+    },
+    {
+      "num": "B",
+      "header": "OTHER MATTERS",
+      "titleCount": 4,
+      "titles": [
+        {
+          "num": "I",
+          "header": "EXTENSIONS AND OTHER MATTERS",
+          "sectionCount": 2,
+          "sections": [
+            {
+              "num": "2101",
+              "header": "EXTENSION OF CERTAIN PROVISIONS OF THE COMPACT OF FREE ASSOCIATION WITH THE FEDERATED STATES OF MICRONESIA AND THE FEDERAL PROGRAM AND SERVICES AGREEMENTS WITH THE FEDERATED STATES OF MICRONESIA AND THE REPUBLIC OF THE MARSHALL ISLANDS.",
+              "text": "SEC. 2101.EXTENSION OF CERTAIN PROVISIONS OF THE COMPACT OF FREE ASSOCIATION WITH THE FEDERATED STATES OF MICRONESIA AND THE FEDERAL PROGRAM AND SERVICES AGREEMENTS WITH THE FEDERATED STATES OF MICRONESIA AND THE REPUBLIC OF THE MARSHALL ISLANDS.(a).—(1).—During the period beginning on October 1, 2023, and ending on November 17, 2023, any activities described in sections 211, 212, and 215 of the Compact of Free Association between the Government of the United States of America and the Government of the Federated States of Micronesia set forth in section 201(a) of the Compact of Free Association Amendments Act of 2003 (;) shall, with the mutual consent of the Federated States of Micronesia, continue in the manner authorized and required for fiscal year 2023 under the agreements described in paragraphs (4) and (5) of section 462(b) of that Compact. (2).—There is appropriated, out of any money in the Treasury not otherwise appropriated, to carry out the activities authorized under paragraph (1) an amount equal to the pro rata portion of the amount appropriated for those activities for fiscal year 2023. (b).—During the period beginning on October 1, 2023, and ending on the date on which a new Federal programs and services agreement with the applicable country enters into force, any activities described in sections 131, 132, and 221(a) of the Compact of Free Association between the Government of the United States of America and the Government of the Federated States of Micronesia set forth in section 201(a) of the Compact of Free Association Amendments Act of 2003 (;) and sections 131, 132, and 221(a) of the Compact of Free Association between the Government of the United States of America and the Government of the Republic of the Marshall Islands set forth in section 201(b) of that Act shall, with the mutual consent of the Federated States of Micronesia or the Republic of the Marshall Islands, as applicable, continue in the manner authorized and required for fiscal year",
+              "fullTextLength": 2496,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a).—(1).—During the period beginning on October 1, 2023, and ending on November 17, 2023, any activities described in sections 211, 212, and 215 of the Compact of Free Association between the Government of the United States of America and the Government of the Federated States of Micronesia set forth in section 201(a) of the Compact of Free Association Amendments Act of 2003 (;) shall, with the mutual consent of the Federated States of Micronesia, continue in the manner authorized and required for fiscal year 2023 under the agreements described in paragraphs (4) and (5) of section 462(b) of that Compact. (2).—There is appropriated, out of any money in the Treasury not otherwise appropriated, to carry out the activities authorized under paragraph (1) an amount equal to the pro rata portion of the amount appropriated for those activities for fiscal year 2023."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b).—During the period beginning on October 1, 2023, and ending on the date on which a new Federal programs and services agreement with the applicable country enters into force, any activities described in sections 131, 132, and 221(a) of the Compact of Free Association between the Government of the United States of America and the Government of the Federated States of Micronesia set forth in section 201(a) of the Compact of Free Association Amendments Act of 2003 (;) and sections 131, 132, and 221(a) of the Compact of Free Association between the Government of the United States of America and the Government of the Republic of the Marshall Islands set forth in section 201(b) of that Act shall, with the mutual consent of the Federated States of Micronesia or the Republic of the Marshall Islands, as applicable, continue in the manner authorized and required for fiscal year 2023 under the agreement described in section 462(b)(1) of the Compact of Free Association between the Government of the United States of America and the Government of the Federated States of Micronesia set forth in section 201(a) of that Act and the agreement described in section 462(b)(1) of the Compact of Free Association between the Government of the United States of America and the Government of the Republic of the Marshall Islands set forth in section 201(b) of that Act, respectively."
+                }
+              ]
+            },
+            {
+              "num": "2102",
+              "header": "EXTENSION OF DEADLINE TO PROMULGATE CERTAIN REGULATIONS.",
+              "text": "SEC. 2102.EXTENSION OF DEADLINE TO PROMULGATE CERTAIN REGULATIONS.Section 413(a) of the Indian Self-Determination and Education Assistance Act ()—(1)in paragraph (2), by“” and“”; and (2)in paragraph (3), by“” and“”.",
+              "fullTextLength": 215,
+              "dollars": [],
+              "subsections": []
+            }
+          ],
+          "appropriations": [],
+          "totalDollars": [],
+          "textLength": 2748
+        },
+        {
+          "num": "II",
+          "header": "FAA EXTENSION",
+          "sectionCount": 0,
+          "sections": [],
+          "appropriations": [],
+          "totalDollars": [
+            {
+              "raw": "$3,350,000,000",
+              "value": 3350000000
+            }
+          ],
+          "textLength": 3893
+        },
+        {
+          "num": "III",
+          "header": "HEALTH AND HUMAN SERVICES",
+          "sectionCount": 0,
+          "sections": [],
+          "appropriations": [],
+          "totalDollars": [],
+          "textLength": 13052
+        },
+        {
+          "num": "IV",
+          "header": "BUDGETARY EFFECTS",
+          "sectionCount": 1,
+          "sections": [
+            {
+              "num": "2401",
+              "header": "BUDGETARY EFFECTS.",
+              "text": "SEC. 2401.BUDGETARY EFFECTS.(a).—The budgetary effects of this division shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010. (b).—The budgetary effects of this division shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress). (c).—Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this division shall not be estimated—(1)for purposes of section 251 of such Act; (2)for purposes of an allocation to the Committee on Appropriations pursuant to section 302(a) of the Congressional Budget Act of 1974; and (3)for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act.",
+              "fullTextLength": 1013,
+              "dollars": [],
+              "subsections": [
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(a).—The budgetary effects of this division shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(b).—The budgetary effects of this division shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress)."
+                },
+                {
+                  "num": "",
+                  "header": "",
+                  "text": "(c).—Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this division shall not be estimated—(1)for purposes of section 251 of such Act; (2)for purposes of an allocation to the Committee on Appropriations pursuant to section 302(a) of the Congressional Budget Act of 1974; and (3)for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act."
+                }
+              ]
+            }
+          ],
+          "appropriations": [],
+          "totalDollars": [],
+          "textLength": 1039
+        }
+      ],
+      "directSections": [],
+      "totalDollars": [
+        {
+          "raw": "$3,350,000,000",
+          "value": 3350000000
+        }
+      ],
+      "textLength": 20759
+    }
+  ],
+  "topSections": [
+    {
+      "num": "1",
+      "header": "SHORT TITLE.",
+      "text": "SECTION 1.SHORT TITLE.This Act may be cited as the “”.",
+      "fullTextLength": 54,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "2",
+      "header": "TABLE OF CONTENTS.",
+      "text": "SEC. 2.TABLE OF CONTENTS.The table of contents of this Act is as follows:",
+      "fullTextLength": 73,
+      "dollars": [],
+      "subsections": []
+    },
+    {
+      "num": "3",
+      "header": "REFERENCES.",
+      "text": "SEC. 3.REFERENCES.Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.",
+      "fullTextLength": 194,
+      "dollars": [],
+      "subsections": []
+    }
+  ],
+  "spending": {
+    "totalMentions": 32,
+    "largestAmounts": [
+      {
+        "raw": "$16,000,000,000,",
+        "value": 16000000000
+      },
+      {
+        "raw": "$15,500,000,000",
+        "value": 15500000000
+      },
+      {
+        "raw": "$3,350,000,000",
+        "value": 3350000000
+      },
+      {
+        "raw": "$3,350,000,000",
+        "value": 3350000000
+      },
+      {
+        "raw": "$2,221,200,000",
+        "value": 2221200000
+      },
+      {
+        "raw": "$2,174,200,000",
+        "value": 2174200000
+      },
+      {
+        "raw": "$1,535,048,000",
+        "value": 1535048000
+      },
+      {
+        "raw": "$937,902,000",
+        "value": 937902000
+      },
+      {
+        "raw": "$915,048,000",
+        "value": 915048000
+      },
+      {
+        "raw": "$818,162,000",
+        "value": 818162000
+      },
+      {
+        "raw": "$705,768,000",
+        "value": 705768000
+      },
+      {
+        "raw": "$637,902,000",
+        "value": 637902000
+      },
+      {
+        "raw": "$621,270,000",
+        "value": 621270000
+      },
+      {
+        "raw": "$617,000,000",
+        "value": 617000000
+      },
+      {
+        "raw": "$608,162,000",
+        "value": 608162000
+      },
+      {
+        "raw": "$570,000,000",
+        "value": 570000000
+      },
+      {
+        "raw": "$374,996,000",
+        "value": 374996000
+      },
+      {
+        "raw": "$325,000,000",
+        "value": 325000000
+      },
+      {
+        "raw": "$219,076,000",
+        "value": 219076000
+      },
+      {
+        "raw": "$217,000,000",
+        "value": 217000000
+      },
+      {
+        "raw": "$190,784,000",
+        "value": 190784000
+      },
+      {
+        "raw": "$147,054,000",
+        "value": 147054000
+      },
+      {
+        "raw": "$122,572,000",
+        "value": 122572000
+      },
+      {
+        "raw": "$92,000,000",
+        "value": 92000000
+      },
+      {
+        "raw": "$87,054,000",
+        "value": 87054000
+      },
+      {
+        "raw": "$75,300,000",
+        "value": 75300000
+      },
+      {
+        "raw": "$74,996,000",
+        "value": 74996000
+      },
+      {
+        "raw": "$62,000,000",
+        "value": 62000000
+      },
+      {
+        "raw": "$60,000,000",
+        "value": 60000000
+      },
+      {
+        "raw": "$42,000,000",
+        "value": 42000000
+      },
+      {
+        "raw": "$25,300,000",
+        "value": 25300000
+      },
+      {
+        "raw": "$2,000,000",
+        "value": 2000000
+      }
+    ]
+  },
+  "parsedAt": "2026-10-04T15:45:13.762Z"
+}
