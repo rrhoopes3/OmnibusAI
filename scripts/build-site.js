@@ -316,13 +316,35 @@ function buildSite() {
   console.log(`Site built: ${OUT_DIR}/`);
 }
 
+const BILL_TYPE_LABELS = {
+  hr: 'H.R.', s: 'S.', hjres: 'H.J.Res.', sjres: 'S.J.Res.', hconres: 'H.Con.Res.', sconres: 'S.Con.Res.',
+};
+
+// "119-hr-7147" + short title from data/bills -> "H.R. 7147: Homeland Security ... Act, 2026"
+function rssTitle(bill) {
+  const [, type, number] = bill.id.split('-');
+  const label = `${BILL_TYPE_LABELS[type] || type.toUpperCase()} ${number}`;
+  const metaPath = path.join(DATA_DIR, 'bills', `${bill.id}.json`);
+  const shortTitle = fs.existsSync(metaPath)
+    ? JSON.parse(fs.readFileSync(metaPath, 'utf-8')).title
+    : (bill.overview.meta || {}).officialTitle;
+  return shortTitle ? `${label}: ${shortTitle.replace(/\.$/, '')}` : label;
+}
+
+// First paragraph of the "Headline Summary" section, as plain text, cut on a word boundary.
+function rssDescription(summary, max = 500) {
+  const headline = summary.match(/^#{1,6}\s*Headline Summary\s*\n+([\s\S]*?)(?=\n#{1,6}\s|\n\n|$)/m);
+  const text = stripMarkdown(headline ? headline[1] : summary).replace(/\s+/g, ' ');
+  if (text.length <= max) return text;
+  return text.slice(0, text.lastIndexOf(' ', max)) + '…';
+}
+
 function buildRssFeed(bills) {
   const items = bills.slice(0, 20).map(b => {
-    const meta = b.overview.meta || {};
     return `    <item>
-      <title>${escapeXml(meta.officialTitle || b.id)}</title>
+      <title>${escapeXml(rssTitle(b))}</title>
       <link>${SITE.url}/bill/${b.id}/</link>
-      <description>${escapeXml((b.overview.summary || '').slice(0, 500))}</description>
+      <description>${escapeXml(rssDescription(b.overview.summary || ''))}</description>
       <pubDate>${new Date(b.overview.generatedAt || Date.now()).toUTCString()}</pubDate>
       <guid>${SITE.url}/bill/${b.id}/</guid>
     </item>`;
