@@ -11,7 +11,9 @@
   },
   "updateDate": "2026-09-03",
   "textVersion": "Enrolled Bill",
-  "xmlUrl": "https://www.congress.gov/119/bills/hr6500/BILLS-119hr6500enr.xml",
+  "xmlUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr6500enr/uslm/BILLS-119hr6500enr.xml",
   "discoveredAt": "2026-09-03T03:34:40.833Z",
-  "status": "ready"
+  "status": "ready",
+  "xmlSize": 167860,
+  "fetchedAt": "2026-10-04T15:36:49.462Z"
 }
