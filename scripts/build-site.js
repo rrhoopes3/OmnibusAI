@@ -313,6 +313,8 @@ function buildSite() {
   // Build RSS feed
   buildRssFeed(bills);
 
+  buildSitemap();
+
   console.log(`Site built: ${OUT_DIR}/`);
 }
 
@@ -363,6 +365,31 @@ ${items}
 
   fs.writeFileSync(path.join(OUT_DIR, 'feed.xml'), rss);
   console.log('  Built: feed.xml');
+}
+
+// Every page the build wrote is a directory index.html, so the sitemap is
+// the list of those directories.
+function buildSitemap() {
+  const urls = [];
+  (function walk(dir) {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) walk(full);
+      else if (entry.name === 'index.html') {
+        const rel = path.relative(OUT_DIR, dir).split(path.sep).join('/');
+        urls.push(`${SITE.url}/${rel ? rel + '/' : ''}`);
+      }
+    }
+  })(OUT_DIR);
+  urls.sort();
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(u => `  <url><loc>${escapeXml(u)}</loc></url>`).join('\n')}
+</urlset>
+`;
+  fs.writeFileSync(path.join(OUT_DIR, 'sitemap.xml'), xml);
+  console.log(`  Built: sitemap.xml (${urls.length} URLs)`);
 }
 
 function escapeXml(str) {

@@ -6,3 +6,5 @@ Allow: /
 
 # AI agent discovery
 # See https://omnibusai.info/llms.txt for a concise, agent-readable summary of this site.
+
+Sitemap: https://omnibusai.info/sitemap.xml
