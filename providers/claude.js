@@ -7,10 +7,13 @@
 const https = require('https');
 const { AIProvider } = require('./base');
 
+// Box-wide text model is Claude Haiku 5.5 (2026-10-18); quality comes from effort, not a bigger
+// model. Medium is the effort floor; high-quality calls think at high.
 const MODELS = {
-  fast: process.env.CLAUDE_FAST_MODEL || 'claude-haiku-4-5-20251001',
-  smart: process.env.CLAUDE_SMART_MODEL || 'claude-sonnet-4-6-20250514',
+  fast: process.env.CLAUDE_FAST_MODEL || 'claude-haiku-5-5',
+  smart: process.env.CLAUDE_SMART_MODEL || 'claude-haiku-5-5',
 };
+const EFFORT = { fast: 'medium', smart: 'high' };
 
 class ClaudeProvider extends AIProvider {
   constructor() {
@@ -37,12 +40,15 @@ class ClaudeProvider extends AIProvider {
   async complete(systemPrompt, userPrompt, options = {}) {
     if (!this.apiKey) throw new Error('ANTHROPIC_API_KEY not set');
 
-    const model = options.model || (options.quality === 'high' ? MODELS.smart : MODELS.fast);
-    const maxTokens = options.maxTokens || 4096;
+    const tier = options.quality === 'high' ? 'smart' : 'fast';
+    const model = options.model || MODELS[tier];
+    // Thinking counts against max_tokens, so leave headroom above the old 4096 default.
+    const maxTokens = Math.max(options.maxTokens || 0, 8192);
 
     const body = JSON.stringify({
       model,
       max_tokens: maxTokens,
+      output_config: { effort: EFFORT[tier] },
       system: systemPrompt,
       messages: [{ role: 'user', content: userPrompt }],
     });
